@@ -1,0 +1,724 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - button "Skip to content" [ref=e3] [cursor=pointer]
+    - button "Accessibility Feedback" [ref=e6] [cursor=pointer]
+    - generic [ref=e9]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=e11]
+      - search [ref=e12]:
+        - generic [ref=e14] [cursor=pointer]
+        - searchbox "Enter your search here - Search suggestions will show as you type" [ref=e17]: Python developer jobs
+        - button "Search using voice" [ref=e22] [cursor=pointer]
+        - button "Search using an image" [ref=e25] [cursor=pointer]
+        - button "Search" [ref=e27] [cursor=pointer]
+        - status [ref=e29]
+    - complementary "Account Rewards and Preferences" [ref=e30]:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - generic [ref=e33]: Welcome back
+          - button "Close" [ref=e34] [cursor=pointer]: ✕
+        - generic [ref=e35]:
+          - generic [ref=e36]: Sign in to earn Rewards
+          - generic [ref=e37]: Earn points with every search when you sign in.
+          - link "Microsoft icon Sign in with Microsoft" [ref=e38] [cursor=pointer]:
+            - /url: https://www.bing.com/fd/auth/signin/v2?action=interactive&provider=windows_live_id&return_url=https%3a%2f%2fwww.bing.com%2frewards%2fupsell%3f%26acctype%3dmsa%26ruru%3dhttps%253A%252F%252Fwww.bing.com%252F%253Fwlsso%253D1%2526wlexpsignin%253D1%2526syncprefs%253D1%2526synset%253D1%2526wlexpsignin%253D1%26raig%3d%26sisrc%3dswagmodv2ms&src=EXPLICIT&sig=1B93D01918FF6B8B10BBC80C19206A6E
+            - img "Microsoft icon" [ref=e39]
+            - generic [ref=e40]: Sign in with Microsoft
+          - generic [ref=e41]: OR
+          - generic [ref=e43]:
+            - link "Sign in with Google" [ref=e44] [cursor=pointer]:
+              - /url: https://www.bing.com/fd/auth/signin/v2?action=interactive&provider=windows_live_id&return_url=https%3a%2f%2fwww.bing.com%2frewards%2fupsell%3f%26acctype%3dgoogle%26ruru%3dhttps%253A%252F%252Fwww.bing.com%252F%253Fwlsso%253D1%2526wlexpsignin%253D1%2526syncprefs%253D1%2526synset%253D1%2526wlexpsignin%253D1%26raig%3d%26sisrc%3dswagmodv2google&src=EXPLICIT&sig=1B93D01918FF6B8B10BBC80C19206A6E
+              - img "Google icon" [ref=e45]
+            - link "Sign in with Apple" [ref=e46] [cursor=pointer]:
+              - /url: https://www.bing.com/fd/auth/signin/v2?action=interactive&provider=windows_live_id&return_url=https%3a%2f%2fwww.bing.com%2frewards%2fupsell%3f%26acctype%3dapple%26ruru%3dhttps%253A%252F%252Fwww.bing.com%252F%253Fwlsso%253D1%2526wlexpsignin%253D1%2526syncprefs%253D1%2526synset%253D1%2526wlexpsignin%253D1%26raig%3d%26sisrc%3dswagmodv2apple&src=EXPLICIT&sig=1B93D01918FF6B8B10BBC80C19206A6E
+              - img "Apple icon" [ref=e47]
+        - generic [ref=e48]:
+          - text: Don’t have an account?
+          - link "Sign up" [ref=e49] [cursor=pointer]:
+            - /url: https://www.bing.com/fd/auth/signin/v2?action=interactive&provider=windows_live_id&return_url=https%3a%2f%2fwww.bing.com%2frewards%2fupsell%3f%26acctype%3dmsa%26ruru%3dhttps%253A%252F%252Fwww.bing.com%252F%253Fwlsso%253D1%2526wlexpsignin%253D1%2526syncprefs%253D1%2526synset%253D1%2526wlexpsignin%253D1%26raig%3d%26sisrc%3dswagmodv2ms&src=EXPLICIT&sig=1B93D01918FF6B8B10BBC80C19206A6E
+      - button "Microsoft Rewards" [ref=e50] [cursor=pointer]:
+        - generic [ref=e51]: Rewards
+      - link "Sign in" [ref=e67] [cursor=pointer]:
+        - /url: javascript:void(0)
+    - navigation "Search Filter" [ref=e69]:
+      - list [ref=e70]:
+        - listitem [ref=e71]:
+          - link "All" [ref=e72] [cursor=pointer]:
+            - /url: /?scope=web&FORM=HDRSC1
+        - listitem [ref=e73]:
+          - link "AI Mode" [ref=e74] [cursor=pointer]:
+            - /url: /copilotsearch?q=Python+developer+jobs&FORM=CSSCOP
+        - listitem [ref=e77]:
+          - link "Images" [ref=e78] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=d4aa822341e6a3e96e199288a6e2865c4a23322a2c978ed881e83b7700180459JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L2ltYWdlcy9zZWFyY2g_cT1QeXRob24rZGV2ZWxvcGVyK2pvYnMmRk9STT1IRFJTQzM&ntb=1
+        - listitem [ref=e79]:
+          - link "Videos" [ref=e80] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=5ea6a9e68c76b2e2bed11687ff37c4de33acad3b8ee92176acd5bae8dc9e3a24JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9zZWFyY2g_cT1QeXRob24rZGV2ZWxvcGVyK2pvYnMmRk9STT1IRFJTQzQ&ntb=1
+        - listitem [ref=e81]:
+          - link "Maps" [ref=e82] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=eda6c53ed2b6d29781264c786a1a1308212faddab70fd103df05d6a2052f440dJmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L21hcHM_cT1QeXRob24rZGV2ZWxvcGVyK2pvYnMmRk9STT1IRFJTQzY&ntb=1
+        - listitem [ref=e83]:
+          - link "News" [ref=e84] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=aa002b9e7ded5574d9c1c9b51bcc2a3ed2f9a690de6f967e99ed59a208d35df5JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L25ld3Mvc2VhcmNoP3E9UHl0aG9uK2RldmVsb3Blcitqb2JzJkZPUk09SERSU0M3&ntb=1
+        - listitem [ref=e85]:
+          - link "Shopping" [ref=e86] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=ff0b54bc59da0cb9e0bfedb3dbf2cbe468d978cdc3ab8da291ec7636dfdb862aJmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3Nob3AvdG9waWNzP3E9UHl0aG9uK2RldmVsb3Blcitqb2JzJkZPUk09U0hPUFRC&ntb=1
+  - main "Search Results" [ref=e88]:
+    - generic [ref=e90]:
+      - generic [aria-hidden] [ref=e91]:
+        - generic [ref=e92] [cursor=pointer]
+        - generic [ref=e94] [cursor=pointer]
+        - generic [ref=e96] [cursor=pointer]
+      - text: 17,500 results
+    - generic [ref=e98]:
+      - list [ref=e99]:
+        - listitem [ref=e100]:
+          - list [ref=e101]:
+            - listitem [ref=e102]:
+              - generic [ref=e103]:
+                - generic [ref=e104] [cursor=pointer]:
+                  - generic [ref=e105]: FlexJobs
+                  - generic [ref=e109]:
+                    - generic [ref=e110]: www.flexjobs.com › find-jobs › hiring
+                    - button [ref=e111]:
+                      - img "About our ads" [ref=e113]
+                    - text: Carbon-neutral
+                - heading [level=2] [ref=e114]:
+                  - link "Fully Remote Companies Hiring | 2026's Best Remote Jobs Site" [ref=e115] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclk?ld=e8hxwv1PejDxpE2pnPEMUP8jVUCUyelrtBJ99XRpS27yafgBtMqXSdjGkSOcn0D_DyKKJ8m_g46EBF41MqGfTl7R-eTaa3xJQciFop35-3xvAZduy-aat6Xgd8H2HfuTm_oO6W7uG43ckX1e6GBVd4CuQiavJWbmi35_pyT0OY3our2qT9kNdSKeITCf8vn_CxjDKICt2nyWY-gn6d4n1p1bhcyMc&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmbHAlMmZyZW1vdGUtam9iczElM2ZuZXR3b3JrJTNkbyUyNmRldmljZSUzZGMlMjZhZHBvc2l0aW9uJTNkJTI2YWRncm91cGlkJTNkMTI2NjYzOTA0MTcyMjkxOCUyNnBsYWNlbWVudCUzZCUyNmFkaWQlM2QlMjZtc2Nsa2lkJTNkNGU0OWQ5MDJkMDUzMTdlNWM1NmNiM2ZmYjJjZGUwN2ElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QnBtYXglMjU1RCUyNTIwcm93X3Byb3NwZWN0aW5nJTI2dXRtX3Rlcm0lM2R3d3cuZmxleGpvYnMuY29tJTI2dXRtX2NvbnRlbnQlM2Rqb2Itc2Vla2Vycy1oaXJpbmctZ2VuZXJhbC1jb3B5&rlid=4e49d902d05317e5c56cb3ffb2cde07a&ntb=1
+                - generic [ref=e117]:
+                  - generic [ref=e118]: Sponsored
+                  - text: Find Remote Jobs & Companies Hiring. Sign Up Now & Find Jobs. Upload Your Resume & Start Searching. We’ve Helped People Land Remote Jobs Since 2007.
+                - generic [ref=e121]:
+                  - list [ref=e122]:
+                    - listitem [ref=e123]:
+                      - link "Work-From-Home Jobs" [ref=e125] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8YmInB9zWucq9Fp--IcLGxDVUCUwk9fOED2d-ePPnprPSft5jLsh4G1W1uTolDn-nr9aUwSWjocwxzeKDyAhFfeFxvCm_lt2cmw0IxfXt60NoYuKGd_gDJkSDgQ2sA3CPcU9gfSiuEmMbpEF4l8qdnfBjLokngvS2rDBBD7JXgrS9QvIZOGQq9a9x_CIcLip_i_2XGIKFVCpPClivmcNawYpd6cqeHWul8d9s-LJ4f-zRjExp&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmYmxvZyUyZnBvc3QlMmYxMC1ncmVhdC13b3JrLWhvbWUtam9icy1zdGF5LWhvbWUtbW9tcyUyZiUzZm5ldHdvcmslM2RvJTI2ZGV2aWNlJTNkYyUyNmFkcG9zaXRpb24lM2QlMjZhZGdyb3VwaWQlM2QxMjY2NjM5MDQxNzIyOTE4JTI2cGxhY2VtZW50JTNkJTI2YWRpZCUzZCUyNm1zY2xraWQlM2Q3ZjBjMzMwMzBkY2IxMjNlZTIwYTU5ZmU2ZjU1NWIwMiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCcG1heCUyNTVEJTI1MjByb3dfcHJvc3BlY3RpbmclMjZ1dG1fdGVybSUzZHd3dy5mbGV4am9icy5jb20lMjZ1dG1fY29udGVudCUzZGpvYi1zZWVrZXJzLWhpcmluZy1nZW5lcmFsLWNvcHk&rlid=7f0c33030dcb123ee20a59fe6f555b02&ntb=1
+                    - listitem [ref=e126]:
+                      - link "10 Jobs Paying $25/Hour" [ref=e128] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8AlqmiPE8jziMNRIAdMG1sTVUCUwRJBu2J993rm_2lHJ148QQi12UbbnKyEp6Tdy84esymU05RAWuf6Sal6AFzDE3-v49VOLvkHQxtSkPZSA9SAdF9tJ69CSyGO7CoLs7FAeFIH-VA8znCxuU2TI2Cd7qlDAhsCNgqVnPJYr9eu8I_nj5qxPI-neFX0XxqMly121YMrcrzFsPalcny7HD_Z_DYe4f0iqKl_QsO1D3ubbOJ_kh&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmYmxvZyUyZnBvc3QlMmZ3b3JrLWZyb20taG9tZS1qb2JzLTI1LXBlci1ob3VyJTJmJTNmbmV0d29yayUzZG8lMjZkZXZpY2UlM2RjJTI2YWRwb3NpdGlvbiUzZCUyNmFkZ3JvdXBpZCUzZDEyNjY2MzkwNDE3MjI5MTglMjZwbGFjZW1lbnQlM2QlMjZhZGlkJTNkJTI2bXNjbGtpZCUzZDM3YWFkMjBjOTU4ZjE5MzFhZWVlYjhmMWY3MTE5MGNiJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkJTI1NUJwbWF4JTI1NUQlMjUyMHJvd19wcm9zcGVjdGluZyUyNnV0bV90ZXJtJTNkd3d3LmZsZXhqb2JzLmNvbSUyNnV0bV9jb250ZW50JTNkam9iLXNlZWtlcnMtaGlyaW5nLWdlbmVyYWwtY29weQ&rlid=37aad20c958f1931aeeeb8f1f71190cb&ntb=1
+                  - list [ref=e129]:
+                    - listitem [ref=e130]:
+                      - link "Remote Work From Home" [ref=e132] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8qEynJeDoXkdkJQJluVv2zjVUCUwtWKk-7DtD1UgdFjDfrXOMj_Ar_nZUNoB-2i4ASDBId-5jToFrysVybqqySbSGYzduRQU82UKPEEEqOyAoBrYmV9cS4tHMIqrvIawS8MzFCe15OyXVVMl12ziKjrP19VPWHnchdlqsAWzQzwQjrYxjtQrLZcx-iKH0a_7JtB4MDLWLT9ew9G_8P-VRD9LVn3YqfWa8f_1qRnUiehyg6HPn&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmcmVnaXN0cmF0aW9uJTJmc2lnbnVwJTNmbmV0d29yayUzZG8lMjZkZXZpY2UlM2RjJTI2YWRwb3NpdGlvbiUzZCUyNmFkZ3JvdXBpZCUzZDEyNjY2MzkwNDE3MjI5MTglMjZwbGFjZW1lbnQlM2QlMjZhZGlkJTNkJTI2bXNjbGtpZCUzZDUyOTliY2MyYTVkYTE3NjhkZTYwZDYzZmM3NDRmNjVjJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkJTI1NUJwbWF4JTI1NUQlMjUyMHJvd19wcm9zcGVjdGluZyUyNnV0bV90ZXJtJTNkd3d3LmZsZXhqb2JzLmNvbSUyNnV0bV9jb250ZW50JTNkam9iLXNlZWtlcnMtaGlyaW5nLWdlbmVyYWwtY29weQ&rlid=5299bcc2a5da1768de60d63fc744f65c&ntb=1
+                    - listitem [ref=e133]:
+                      - link "Part-Time Remote Jobs" [ref=e135] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8QXXEwB8PESGLWZ1rTUhbCzVUCUwOcwTJd7_2CW6klzPEM2cGcgXuXDZeLCrmqmpXBzELfx_s5CKIwiHCYwcNeFmKDE5BzLTSPQVcBCiRMRI5XkGRXYI_UH6Cd1gC71ZLiH43yDhuxQb1tODsXDe0qYQLpGjZF-3DwoUWsoHtRw4Wxy1S8yL2FG9E413LluvovLwqjDXtxT04LZ0YvQ2vC5ZnO8XLQlu6SV1IkBUlRw1IeAGv&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmYmxvZyUyZnBvc3QlMmZjb21wYW5pZXMtaGlyaW5nLXBhcnQtdGltZS1yZW1vdGUtd29yay1mcm9tLWhvbWUtam9icyUyZiUzZm5ldHdvcmslM2RvJTI2ZGV2aWNlJTNkYyUyNmFkcG9zaXRpb24lM2QlMjZhZGdyb3VwaWQlM2QxMjY2NjM5MDQxNzIyOTE4JTI2cGxhY2VtZW50JTNkJTI2YWRpZCUzZCUyNm1zY2xraWQlM2Q0NTYyNmUxMTA1MGQxYjA3ZDlmODA0ZWM2NzkzYThhZCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCcG1heCUyNTVEJTI1MjByb3dfcHJvc3BlY3RpbmclMjZ1dG1fdGVybSUzZHd3dy5mbGV4am9icy5jb20lMjZ1dG1fY29udGVudCUzZGpvYi1zZWVrZXJzLWhpcmluZy1nZW5lcmFsLWNvcHk&rlid=45626e11050d1b07d9f804ec6793a8ad&ntb=1
+            - listitem [ref=e136]:
+              - generic [ref=e137]:
+                - generic [ref=e138] [cursor=pointer]:
+                  - generic [ref=e139]: catchwork.jobs
+                  - generic [ref=e143]:
+                    - generic [ref=e144]: in.catchwork.jobs › urgent › job
+                    - button [ref=e145]:
+                      - img "About our ads" [ref=e147]
+                - heading [level=2] [ref=e148]:
+                  - link "Junior Python Developer Job New Jobs | Urgently Hiring Now" [ref=e149] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclk?ld=e8j6svzUk8_D1R-42pH_kF1zVUCUyisZEOU5zr9xvj_Cq8xLGn6Jl25LhzYjWa4vF9OExYQoD-rfUB7twIUte4tKrpu2WFa_4F-p7yVzA6Jv6Xw1S-tBJ25kx7-JQ61ky6JHINxC8g7rvecuPO7dNh4LEfwF-cD7Yz7Fho_cvJR20x0fcqrsx1Xf1Vt0uzwqyYzgzounP-VG7UbCmpNMuorqu-FJc&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnJkLnBocCUzZnElM2RqdW5pb3IlMmJweXRob24lMmJkZXZlbG9wZXIlMjZmZWVkX2luJTNkNjIlMmM0NSUyYzYzJTJjNjYlMmM2NyUyYzcxJTJjNzQlMjZwcm9tbyUzZDE3JTI2YXBpJTNkdCUyNl9yJTNkMSUyNm1zY2xraWQlM2Q1MTI3MDVjMGIzMzcxMWM1ZmNiNjZmM2RkMWE5Y2NiYSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCSU4lMjU1RCUyNTVCQ0FUQ0hXT1JLJTI1NUQlMjU1QlJEJTI1NUQlMjUyMFByb2Zlc3Npb25pJTI1MjBKb2JyYXBpZG8lMmMlMjUyMEpvYnJhcGlkbyUyNTIwUHJlbWl1bSUyYyUyNTIwU291cmNpbmclMmMlMjUyMEpvYnRvbWUlMmMlMjUyMEFUVEIlMjUyMCg0NSklMjUyMCg2MiklMjUyMCg2NyklMjUyMCg3MSklMjUyMCg3NCklMjUyMC0lMjUyMGJpbmclMjZ1dG1fdGVybSUzZGp1bmlvciUyNTIwcHl0aG9uJTI1MjBkZXZlbG9wZXIlMjUyMGpvYiUyNnV0bV9jb250ZW50JTNkSU4lMjUyMFByb2Zlc3Npb25p&rlid=512705c0b33711c5fcb66f3dd1a9ccba&ntb=1
+                - generic [ref=e150]:
+                  - generic [ref=e151]:
+                    - generic [ref=e152]: Sponsored
+                    - text: "Junior python developer job Job: View all our Urgent Vacancies now. India: No Experience Required for the Latest Job Vacancies"
+                  - generic [ref=e155]: "Types: Part Time, Full Time, Online Jobs"
+                - generic [ref=e159]:
+                  - button "Click to scroll right" [ref=e160] [cursor=pointer]
+                  - list "Please use arrow keys to navigate" [ref=e169]:
+                    - listitem [ref=e170] [cursor=pointer]:
+                      - link "Job Search" [ref=e172]:
+                        - /url: https://www.bing.com/aclk?ld=e8FzgSrx0KoW1iubnsyghi_TVUCUy2GaAkOQuAefRqB9io4Jo8JTpt_fkaDETGltRZz4Bxz75kRzAYNbwokIxposlUSHzNyAPvKnDqDvra6H3rT8VbWcS0J1bfkcO2DuQXCkoTAKPCCzW4gVm-vwstRUkmr5Hkt_gUvRNh9M5FmV2ilRtkZoWw4EyhyDYEPN0UOVpD6Pvu2CyTHFc2xUsD81gUYE88Ln_xq9rLyBY23agjZRwA&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnNlYXJjaC5waHAlM2YlMjZxJTNkam9iJTI2dyUzZCUyNm1zY2xraWQlM2RhNzgzOTcxYjMxMmExYzliMjM3ZmZkZTY1M2I0NGZiMyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCSU4lMjU1RCUyNTVCQ0FUQ0hXT1JLJTI1NUQlMjU1QlJEJTI1NUQlMjUyMFByb2Zlc3Npb25pJTI1MjBKb2JyYXBpZG8lMmMlMjUyMEpvYnJhcGlkbyUyNTIwUHJlbWl1bSUyYyUyNTIwU291cmNpbmclMmMlMjUyMEpvYnRvbWUlMmMlMjUyMEFUVEIlMjUyMCg0NSklMjUyMCg2MiklMjUyMCg2NyklMjUyMCg3MSklMjUyMCg3NCklMjUyMC0lMjUyMGJpbmclMjZ1dG1fdGVybSUzZGp1bmlvciUyNTIwcHl0aG9uJTI1MjBkZXZlbG9wZXIlMjUyMGpvYiUyNnV0bV9jb250ZW50JTNkSU4lMjUyMFByb2Zlc3Npb25p&rlid=a783971b312a1c9b237ffde653b44fb3&ntb=1
+                    - listitem [ref=e174] [cursor=pointer]:
+                      - link "Platform Job Offers" [ref=e176]:
+                        - /url: https://www.bing.com/aclk?ld=e8JqNU-6cJeTzv68aOfDf5dTVUCUw9fQf-VKTdYRFq_btwwlL6JZGudhxpFVh-knqAam6oZQ6zWxCYNHyB84LPRtJIa9xSmTMSvL1Jcq9YbwEwf4igzEAYwKjcQjT1775KO_oo80iaTOlijPWyeWsbiqLx93d9hfMmQ5rVgIq8Vv0URxvwueqrT0Xd35SnoM1M175UXc810JxvAEV9UhCo6L8dVYUa7oHcH8iQmxG8mhGvNMYX&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnNlYXJjaC5waHAlM2YlMjZwcm9tbyUzZDE3JTI2cSUzZGpvYiUyNnclM2QlMjZtc2Nsa2lkJTNkNTM2Zjg0ZGQ3OWM1MTE5MWVhMmJlZTIwMWI1YmM0YWQlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QklOJTI1NUQlMjU1QkNBVENIV09SSyUyNTVEJTI1NUJSRCUyNTVEJTI1MjBQcm9mZXNzaW9uaSUyNTIwSm9icmFwaWRvJTJjJTI1MjBKb2JyYXBpZG8lMjUyMFByZW1pdW0lMmMlMjUyMFNvdXJjaW5nJTJjJTI1MjBKb2J0b21lJTJjJTI1MjBBVFRCJTI1MjAoNDUpJTI1MjAoNjIpJTI1MjAoNjcpJTI1MjAoNzEpJTI1MjAoNzQpJTI1MjAtJTI1MjBiaW5nJTI2dXRtX3Rlcm0lM2RqdW5pb3IlMjUyMHB5dGhvbiUyNTIwZGV2ZWxvcGVyJTI1MjBqb2IlMjZ1dG1fY29udGVudCUzZElOJTI1MjBQcm9mZXNzaW9uaQ&rlid=536f84dd79c51191ea2bee201b5bc4ad&ntb=1
+                    - listitem [ref=e178] [cursor=pointer]:
+                      - link "Sarkari Job Results" [ref=e180]:
+                        - /url: https://www.bing.com/aclk?ld=e83jVXyeG6ZVucnggSiP4nvjVUCUzehcomYJc3Cd7GCRGzdXh5DaXLifvlFINyN16Z8rAIBlt8O5KycGG5PhzVwfrKcrBe_iGTpzQhfTQfcdH1b9X-Bu1kxxjE-n343WgHFnBJWRPEh_qt7cxiohMirqmsZXiJAo6b3BwOgw3BDyK-T6RYm56Dtobr1PLd2mLAgfsJj1CGh0edvgI1ku3BelOBfyOvD_1wdyXI_r5Y0ep1RI1T&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnNlYXJjaC5waHAlM2YlMjZxJTNkc2Fya2FyaSUyNnclM2QlMjZwcm9tbyUzZDE3JTI2bXNjbGtpZCUzZDRmNTZmZGQzZTdmYzE5Y2ZlNDY4OTcyZTg1NjIwZDZiJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkJTI1NUJJTiUyNTVEJTI1NUJDQVRDSFdPUkslMjU1RCUyNTVCUkQlMjU1RCUyNTIwUHJvZmVzc2lvbmklMjUyMEpvYnJhcGlkbyUyYyUyNTIwSm9icmFwaWRvJTI1MjBQcmVtaXVtJTJjJTI1MjBTb3VyY2luZyUyYyUyNTIwSm9idG9tZSUyYyUyNTIwQVRUQiUyNTIwKDQ1KSUyNTIwKDYyKSUyNTIwKDY3KSUyNTIwKDcxKSUyNTIwKDc0KSUyNTIwLSUyNTIwYmluZyUyNnV0bV90ZXJtJTNkanVuaW9yJTI1MjBweXRob24lMjUyMGRldmVsb3BlciUyNTIwam9iJTI2dXRtX2NvbnRlbnQlM2RJTiUyNTIwUHJvZmVzc2lvbmk&rlid=4f56fdd3e7fc19cfe468972e85620d6b&ntb=1
+                    - listitem [ref=e182] [cursor=pointer]:
+                      - link "Job Offers & Hiring..." [ref=e184]:
+                        - /url: https://www.bing.com/aclk?ld=e8LMfMKIezHlfWOSjumPDVwzVUCUyESEPrmpWaC6vB5v_nRfNiEGXq449MY-694ADtQpMCdK4AuCbasMXAUEBCvcxK4-hSZYqm4HIssdghL0Dqog89C3WPltR4AqjNwL6rKVg61Iw1rAwXhXMzkuRMdzB3NhvpleS4mixrnwRHYNLT7-OCIKrwAPbj1eUsyXxmSQliWf6XjcocMaa5TNcmnAcwR1iv5DKBaoyZZ9553uzIeZCl&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnNlYXJjaC5waHAlM2YlMjZwcm9tbyUzZDE3JTI2cSUzZGpvYiUyNnclM2QlMjZtc2Nsa2lkJTNkN2ExZmUzOTU1NTM2MWE2YmZkNGU4OTY4MzdhODM0ZTUlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QklOJTI1NUQlMjU1QkNBVENIV09SSyUyNTVEJTI1NUJSRCUyNTVEJTI1MjBQcm9mZXNzaW9uaSUyNTIwSm9icmFwaWRvJTJjJTI1MjBKb2JyYXBpZG8lMjUyMFByZW1pdW0lMmMlMjUyMFNvdXJjaW5nJTJjJTI1MjBKb2J0b21lJTJjJTI1MjBBVFRCJTI1MjAoNDUpJTI1MjAoNjIpJTI1MjAoNjcpJTI1MjAoNzEpJTI1MjAoNzQpJTI1MjAtJTI1MjBiaW5nJTI2dXRtX3Rlcm0lM2RqdW5pb3IlMjUyMHB5dGhvbiUyNTIwZGV2ZWxvcGVyJTI1MjBqb2IlMjZ1dG1fY29udGVudCUzZElOJTI1MjBQcm9mZXNzaW9uaQ&rlid=7a1fe39555361a6bfd4e896837a834e5&ntb=1
+                    - listitem [ref=e186] [cursor=pointer]:
+                      - link "Akola Job Offers" [ref=e188]:
+                        - /url: https://www.bing.com/aclk?ld=e8oFykZ1iTdFbtepcsVHCK3jVUCUzHTOkBm-_c7sBjVgUZCpyx6MndwlwzOrXPI_Ut0zHsO9PJUKhLocH8ETGVZZfWSZm3reZMZcwXXX5qxLWwIf8ezTfhvLMo6_o5h9mZ47Xs8a-OFRkLiFQDVXSpLztuQEt_dovZeM2-9i6G3us82sPvVHrF1d101yFPtD6j_939Zy3As3MW0_DB5zozoTRlCCTL7cNl64b-Zhf8xIzGFBid&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnNlYXJjaC5waHAlM2YlMjZxJTNkam9iJTI2dyUzZGFrb2xhJTI2cHJvbW8lM2QxNyUyNm1zY2xraWQlM2QxMDZjMGZiNzljNjQxZDk2YTU3ODY1NGFmZWZhOTgzYyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCSU4lMjU1RCUyNTVCQ0FUQ0hXT1JLJTI1NUQlMjU1QlJEJTI1NUQlMjUyMFByb2Zlc3Npb25pJTI1MjBKb2JyYXBpZG8lMmMlMjUyMEpvYnJhcGlkbyUyNTIwUHJlbWl1bSUyYyUyNTIwU291cmNpbmclMmMlMjUyMEpvYnRvbWUlMmMlMjUyMEFUVEIlMjUyMCg0NSklMjUyMCg2MiklMjUyMCg2NyklMjUyMCg3MSklMjUyMCg3NCklMjUyMC0lMjUyMGJpbmclMjZ1dG1fdGVybSUzZGp1bmlvciUyNTIwcHl0aG9uJTI1MjBkZXZlbG9wZXIlMjUyMGpvYiUyNnV0bV9jb250ZW50JTNkSU4lMjUyMFByb2Zlc3Npb25p&rlid=106c0fb79c641d96a578654afefa983c&ntb=1
+                    - listitem [ref=e190] [cursor=pointer]:
+                      - link "Job Vacancies Akola City" [ref=e192]:
+                        - /url: https://www.bing.com/aclk?ld=e8oJ8vqEUAq2r98o2LcHtHCTVUCUyp5MzPgFGYe323cDPv9j1HkeXRKZcDbZdV_tNv1mbGukZ9ihddhWBexhlaB3ItKBBTQ1DoldUOB3LHhpSBPeYF8YBKB-E__-9TesFyI_5i85xyGINuvgFZ3vrD36AxDn7JqNDiyLp1l_yRpuqZqBWAczBteH2u1A7L2CfK-mgIN83eQjIEB13nGG7a2Ij-BZt_nYr7_D4jpabHa4pz_O8a&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnNlYXJjaC5waHAlM2YlMjZxJTNkam9iJTI2dyUzZGFrb2xhJTI2cHJvbW8lM2QxNyUyNm1zY2xraWQlM2QxMmU4ODc0NTE1ODkxNzJjODEzMmVkYjg3NzE3NTQ5MiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCSU4lMjU1RCUyNTVCQ0FUQ0hXT1JLJTI1NUQlMjU1QlJEJTI1NUQlMjUyMFByb2Zlc3Npb25pJTI1MjBKb2JyYXBpZG8lMmMlMjUyMEpvYnJhcGlkbyUyNTIwUHJlbWl1bSUyYyUyNTIwU291cmNpbmclMmMlMjUyMEpvYnRvbWUlMmMlMjUyMEFUVEIlMjUyMCg0NSklMjUyMCg2MiklMjUyMCg2NyklMjUyMCg3MSklMjUyMCg3NCklMjUyMC0lMjUyMGJpbmclMjZ1dG1fdGVybSUzZGp1bmlvciUyNTIwcHl0aG9uJTI1MjBkZXZlbG9wZXIlMjUyMGpvYiUyNnV0bV9jb250ZW50JTNkSU4lMjUyMFByb2Zlc3Npb25p&rlid=12e887451589172c8132edb877175492&ntb=1
+            - listitem [ref=e194]:
+              - generic [ref=e195]:
+                - generic [ref=e196] [cursor=pointer]:
+                  - generic [ref=e197]: Mobexer - The Best Apps
+                  - generic [ref=e201]:
+                    - generic [ref=e202]: https://www.mobexer.com
+                    - button [ref=e203]:
+                      - img "About our ads" [ref=e205]
+                    - text: Web accessibility
+                  - link "Download" [ref=e211]:
+                    - /url: https://www.bing.com/aclk?ld=e8TaHiyJob8akrpoFtE5b6JjVUCUzO3dWQPHF9GqQ4EeqAap-SLXK-OKApbgzild0p4ZGZ1YZVEE-TVOExo-8Sk3ndLIHs9x7fkmd-olzgZHaR6UZZ1AZqMAE3jN-qL9fk4TRXnnx5BxAw_xvfIiIPs8mx0gVVnmnM_8kajoNgYKienbMWIJLXW9BgwpsKCg0ljk4_9M1Ylt6yOJHHk9fSr6ZCslLlx72ffjtId_npT4HRzD9D&u=aHR0cHMlM2ElMmYlMmZ3d3cubW9iZXhlci5jb20lMmZqb2Itc2VhcmNoLWJ5LXppcHJlY3J1aXRlciUyZmNvbS56aXByZWNydWl0ZXIuYW5kcm9pZC5yZWxlYXNlJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkNjA1ODg0NTUxJTI2dXRtX2NvbnRlbnQlM2QxMzQxNDA2NzMyMzk5NDAyJTI2dXRtX3Rlcm0lM2Rrd2QtODM4MzkyMDU0NTc1NjglMjZtc2Nsa2lkJTNkNmIyZmRiNTgyMTY5MTA1ZWVmZTRiMWE1NDNmNzIzZjA&rlid=6b2fdb582169105eefe4b1a543f723f0&ntb=1
+                - heading [level=2] [ref=e213]:
+                  - link "New Job Opportunities | Find Work Instantly" [ref=e214] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclk?ld=e8g4Gu3i4qUVxcqGyR26MhuDVUCUzTri25Rt54xSxoOx8-afOIGmVvB12CchBay6J2S_hle4OWuBMVVPuMfdyCnHIF46sLwOxi8ABmGvL-DGT6qwgcEBDCVXfxAl7VTtGW79pcRyQylfTDYMudNoxJ1F4S5WMkdJuk3oxUL5k3BGezmPQeYHJ2gxlvv4N_S95H0qG9-d_4Os2uw3Qz0HFqk7RVw_g&u=aHR0cHMlM2ElMmYlMmZ3d3cubW9iZXhlci5jb20lMmZqb2Itc2VhcmNoLWJ5LXppcHJlY3J1aXRlciUyZmNvbS56aXByZWNydWl0ZXIuYW5kcm9pZC5yZWxlYXNlJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkNjA1ODg0NTUxJTI2dXRtX2NvbnRlbnQlM2QxMzQxNDA2NzMyMzk5NDAyJTI2dXRtX3Rlcm0lM2Rrd2QtODM4MzkyMDU0NTc1NjglMjZtc2Nsa2lkJTNkMTA5ZTIwY2MzNzZkMTNmYzhmZmM0YTMxNTVmM2MwNzQ&rlid=109e20cc376d13fc8ffc4a3155f3c074&ntb=1
+                - generic [ref=e215]:
+                  - generic [ref=e216]:
+                    - generic [ref=e217]: Sponsored
+                    - text: Search jobs and get hired. Connect with top employers.
+                  - generic [ref=e220]:
+                    - strong [ref=e221]: "Site visitors:"
+                    - text: Over 1M in the past month
+                  - generic [ref=e222]: App Features, Salary Estimator, One-Click Apply, Job Alerts, Search Filters and more
+                - generic [ref=e223]:
+                  - list [ref=e224]:
+                    - listitem [ref=e225]:
+                      - link "Play Store App for Free" [ref=e227] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8k8PIC4rd6n2yIbil_vJiKjVUCUyCPsMTlbBFNChT_9d43JJMwakYuPIxvZp-67Dlhdm5udvu0k65NbcmSJGvQh8VExkh9gUVG0cSVLBFRamIQoWh1xzLzNQajKrOrVWCH0HbBijEqFrs0I6jbyG3J_74gBNpRIvsQFPAXYwJOqYqZr0XtnmOvJR6gACeMfSrEmdN_BaYneCnx563LgxWHoZ7XschTUyOe1RXr5-GNdt4lG1e&u=aHR0cHMlM2ElMmYlMmZ3d3cubW9iZXhlci5jb20lMmZnb29nbGUtcGxheS1zZXJ2aWNlcyUyZmNvbS5nb29nbGUuYW5kcm9pZC5nbXMlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q2MDU4ODQ1NTElMjZ1dG1fY29udGVudCUzZDEzNDE0MDY3MzIzOTk0MDIlMjZ1dG1fdGVybSUzZGt3ZC04MzgzOTIwNTQ1NzU2OCUyNm1zY2xraWQlM2Q1NzJiZmU5MmY0NjcxYWNiZmY3MDk0NmY5NmY5ZGJiNg&rlid=572bfe92f4671acbff70946f96f9dbb6&ntb=1
+                    - listitem [ref=e228]:
+                      - link "Play Among Us for Free" [ref=e230] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8DFMDXeMTmxClkhLY_Q-PyDVUCUxl608kdy4_oqfKMz6qI4-FwoSB7idkF1dgNHVTR-dEEU-FSNNA8znMVoI7wj3YrPrmo-V6fHzUo92wdxSQSTqVITF2MwRvmgbWnHWvzGN-Htin-OwHNE0So2lxe4IuccXDM7EsObX7tMB_MqcNwNzYY-BHKOJXZGg2lKoQY0jMmDL7Ih5uBzB1FYdSkgJn8FrVhdKGnn6oQRZkjU4XyPMw&u=aHR0cHMlM2ElMmYlMmZ3d3cubW9iZXhlci5jb20lMmZhbW9uZy11cyUyZmNvbS5pbm5lcnNsb3RoLnNwYWNlbWFmaWElM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q2MDU4ODQ1NTElMjZ1dG1fY29udGVudCUzZDEzNDE0MDY3MzIzOTk0MDIlMjZ1dG1fdGVybSUzZGt3ZC04MzgzOTIwNTQ1NzU2OCUyNm1zY2xraWQlM2QzMzI3ZjFjZDMwYjQxNTEzYTViOTliMzA1MjJhNGYwYQ&rlid=3327f1cd30b41513a5b99b30522a4f0a&ntb=1
+                  - list [ref=e231]:
+                    - listitem [ref=e232]:
+                      - link "The Best Games" [ref=e234] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e86nRQtxsdW0J66Pryre_5HDVUCUz5KH-omwMzzkYUQEPStgL7_V0iB5zkELkn22Vd0rqNduNt6T1w_xAuNmZsMSNnlJSPVrOhifYDkODJU-X4-SoJdTBhYZ3jOjUlEILbc0R5OEVu3PuX4ZoIt350_oLCUHwir43he4FNPJbLXuM2tkKtMpczcCDEI-rLG0iU_Yxfx34ZcH9rEvbk5I5ppiv2cbNIX55-0w5BxiBtfgr0CUxO&u=aHR0cHMlM2ElMmYlMmZ3d3cubW9iZXhlci5jb20lMmZnYW1lcyUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZDYwNTg4NDU1MSUyNnV0bV9jb250ZW50JTNkMTM0MTQwNjczMjM5OTQwMiUyNnV0bV90ZXJtJTNka3dkLTgzODM5MjA1NDU3NTY4JTI2bXNjbGtpZCUzZGIyMjM5MmVhYWRjMzE3ZGEyYWU4ZjgxN2NmNWQ4Y2Nk&rlid=b22392eaadc317da2ae8f817cf5d8ccd&ntb=1
+                    - listitem [ref=e235]:
+                      - link "Messaging Apps" [ref=e237] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8s5oHeymIbZkBCKdqDwMx5TVUCUy0UXTD6BrQBlUqebesYPTyxlDVqc3r_9WPBv1TNnxr3WmxENMEVqVm9RuCBMpah73tAiOpnEhVFma7jI3MyjGKydKw1ChbcpZ2iWVHSisRGdIuIymThKq7Z8zIU1rIm5bX9rU6T1RwDWU1oG9VmbfkV67GoJU3WPpSnUjtacJeF3tTOFbKw_Z7zGhyoFFOdkyqqq-_1txIYHUhrjYPnodk&u=aHR0cHMlM2ElMmYlMmZ3d3cubW9iZXhlci5jb20lMmZjYXRlZ29yeSUyZmNvbW11bmljYXRpb24lM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q2MDU4ODQ1NTElMjZ1dG1fY29udGVudCUzZDEzNDE0MDY3MzIzOTk0MDIlMjZ1dG1fdGVybSUzZGt3ZC04MzgzOTIwNTQ1NzU2OCUyNm1zY2xraWQlM2QxYzFhN2MxYjA2MzQxYmE1OTE5YTE2ZTY2NGFhMjFkMA&rlid=1c1a7c1b06341ba5919a16e664aa21d0&ntb=1
+            - listitem [ref=e238]:
+              - generic [ref=e239]:
+                - generic [ref=e240] [cursor=pointer]:
+                  - generic [ref=e241]: JobLeads
+                  - generic [ref=e245]:
+                    - generic [ref=e246]: https://www.jobleads.com › exclusive › jobs
+                    - button [ref=e247]:
+                      - img "About our ads" [ref=e249]
+                - heading [level=2] [ref=e250]:
+                  - link "Python Developer Jobs | Start Applying Now" [ref=e251] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclk?ld=e8bygg3AQAmS3rOSJ6dW198DVUCUzSPWyPj5dMHGwLQRO1-97ytcohmkYnkF_r1sOPF_k0uq6cNOl6hKPRUP4hRA_ysEjbgb12H4A5hA-KIex6nPSUQzXcQZKmxnpMU-IZOGQE9hy7SdaCRpdz54QaJxp8Q_iCv8tNKO7dEDSyXuU_S8WaETT1P5cv92UAA-W3icJcn_oO-G2qfJvumfx4CELAPUk&u=aHR0cHMlM2ElMmYlMmZ3d3cuam9ibGVhZHMuY29tJTJmcmVnaXN0cmF0aW9uJTJmOTklMmZqb2JzJTJmZW4lMmZnbG9iYWwlMmZFeGNsdXNpdmUtUHl0aG9uLURldmVsb3Blci1Kb2JzJTJmYWxsJTJmcHl0aG9uLWRldmVsb3BlciUzZnV0bV9zb3VyY2UlM2RtaWNyb3NvZnQtYWRzX2luLXNlYXJjaF9JTl9fJTI2dXRtX2NvbnRlbnQlM2RBTEwlN2NFTiU3Y0lOX1B5dGhvbi1EZXZlbG9wZXItSm9ic19zZWFyY2gtam9ic2VhcmNoXzk5JTI2dXRtX21lZGl1bSUzZHNlYS1hZCUyNnV0bV9jYW1wYWlnbiUzZEFMTCU3Y0VOJTdjSU4lMjZtc2Nsa2lkJTNkMGFhNDQzNjNjM2NjMWY1ZGI5YTcyOTllYTE1MjVhOWM&rlid=0aa44363c3cc1f5db9a7299ea1525a9c&ntb=1
+                - generic [ref=e252]:
+                  - generic [ref=e253]:
+                    - generic [ref=e254]: Sponsored
+                    - text: 80% of top jobs aren’t on major job sites. Access hidden opportunities with JobLeads! New roles fill fast. Get matched instantly before other candidates see them.
+                  - generic [ref=e257]:
+                    - generic [ref=e258]:
+                      - strong [ref=e259]: 4.5/5
+                      - 'img "Star Rating: 4.5 out of 5." [ref=e260]'
+                      - text: (
+                      - link "20K reviews" [ref=e266] [cursor=pointer]:
+                        - /url: /merchant/reviews?mid=jobleads.com&FORM=MRANNO
+                      - text: )
+                    - generic [ref=e267]:
+                      - strong [ref=e268]: "Site visitors:"
+                      - text: Over 100K in the past month
+        - listitem [ref=e269]:
+          - button "Hide" [ref=e274] [cursor=pointer]
+      - list [ref=e277]:
+        - listitem [ref=e278]:
+          - region "AI Overview" [ref=e279]:
+            - generic [ref=e280]:
+              - heading [level=2] [ref=e281]:
+                - link "AI Overview" [ref=e282] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=d0dcb9f0535e47e6b8f7bee834d1e7adabecd6e9de04d1856d8dbfe3975b0f78JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L2NvcGlsb3RzZWFyY2g_cT1QeXRob24rZGV2ZWxvcGVyK2pvYnMmZm9ybT1DU0JSQU5E&ntb=1
+                  - img "AI Overview" [ref=e285]
+              - generic [ref=e286]:
+                - button "AI disclaimer" [ref=e287] [cursor=pointer]
+                - generic [ref=e293]:
+                  - button "Like" [ref=e296] [cursor=pointer]
+                  - button "Dislike" [ref=e300] [cursor=pointer]
+            - generic [ref=e302]:
+              - generic [ref=e304]:
+                - generic [ref=e309]:
+                  - heading [level=2] [ref=e310]:
+                    - strong [ref=e311]: Python developer jobs are widely available across major platforms, with thousands of openings globally — for example, Indeed lists over 11,000 roles in the U.S., Naukri.com lists 4,163 openings in India (Oct 2026), and LinkedIn shows 8,000+ roles in India.
+                  - heading "Overview of Python Developer Job Availability" [level=2] [ref=e312]
+                  - paragraph [ref=e313]: Python remains one of the most in-demand programming languages, reflected in consistently high job postings across global job boards.
+                  - heading [level=3] [aria-hidden] [ref=e314]: United States
+                  - list [aria-hidden] [ref=e315]:
+                    - listitem [ref=e316]:
+                      - strong [ref=e317]: Indeed
+                      - text: lists
+                      - strong [ref=e318]: 11,000+ Python developer jobs
+                      - text: ", including roles at JPLoft, CACI, and Pythonwise."
+                      - button [ref=e319] [cursor=pointer]:
+                        - generic [ref=e322]: Indeed
+                    - listitem [ref=e323]: Roles range from entry-level to senior, with salaries varying by region and clearance requirements (e.g., TS/SCI roles).
+                  - heading [level=3] [aria-hidden] [ref=e324]: India
+                  - list [aria-hidden] [ref=e325]:
+                    - listitem [ref=e326]:
+                      - paragraph [ref=e327]:
+                        - strong [ref=e328]: Naukri.com
+                        - text: shows
+                        - strong [ref=e329]: 4,163 Python developer vacancies
+                        - text: (as of Oct 2026).
+                        - button [ref=e330] [cursor=pointer]:
+                          - generic [ref=e333]: Naukri.com
+                    - listitem [ref=e334]:
+                      - paragraph [ref=e335]: "Skills frequently requested: Django, Flask, FastAPI, REST APIs, SQL, cloud platforms, and microservices."
+                    - listitem [ref=e336]:
+                      - paragraph [ref=e337]: Experience levels range from freshers to senior engineers.
+                    - listitem [ref=e338]:
+                      - paragraph [ref=e339]:
+                        - strong [ref=e340]: LinkedIn
+                        - text: lists
+                        - strong [ref=e341]: 8,000+ Python developer roles
+                        - text: across India.
+                        - button [ref=e342] [cursor=pointer]:
+                          - generic [ref=e345]: LinkedIn
+                      - list [ref=e346]:
+                        - listitem [ref=e347]: Companies hiring include Infosys, TCS, Hitachi Solutions, Morningstar, and many startups.
+                  - heading [level=3] [aria-hidden] [ref=e348]: Global / Remote
+                  - list [aria-hidden] [ref=e349]:
+                    - listitem [ref=e350]:
+                      - strong [ref=e351]: Python.org Job Board
+                      - text: features
+                      - strong [ref=e352]: 20 new Python-related jobs
+                      - text: ", many of them remote or international."
+                      - button [ref=e353] [cursor=pointer]:
+                        - generic [ref=e356]: Python.org
+                      - list [ref=e357]:
+                        - listitem [ref=e358]: Roles include Backend Engineer, Senior Python Engineer, ML Engineer, and Full‑Stack Python Developer.
+                  - heading [level=2] [aria-hidden] [ref=e359]: Common Skills Employers Seek
+                  - paragraph [aria-hidden] [ref=e360]: "Across listings, employers frequently request:"
+                  - list [aria-hidden] [ref=e361]:
+                    - listitem [ref=e362]:
+                      - strong [ref=e363]: Python frameworks
+                      - text: ": Django, Flask, FastAPI"
+                    - listitem [ref=e364]:
+                      - strong [ref=e365]: APIs & microservices
+                    - listitem [ref=e366]:
+                      - strong [ref=e367]: Cloud platforms
+                      - text: ": AWS, Azure, GCP"
+                    - listitem [ref=e368]:
+                      - strong [ref=e369]: Databases
+                      - text: ": PostgreSQL, MySQL, MongoDB"
+                    - listitem [ref=e370]:
+                      - strong [ref=e371]: DevOps tools
+                      - text: ": Git, CI/CD, Docker, Kubernetes"
+                    - listitem [ref=e372]:
+                      - strong [ref=e373]: Data skills
+                      - text: ": Pandas, NumPy, ML experience (for specialized roles)"
+                  - heading [level=2] [aria-hidden] [ref=e374]: Typical Job Titles
+                  - list [aria-hidden] [ref=e375]:
+                    - listitem [ref=e376]: Python Developer
+                    - listitem [ref=e377]: Backend Engineer (Python)
+                    - listitem [ref=e378]: Full‑Stack Engineer (Python)
+                    - listitem [ref=e379]: Machine Learning Engineer
+                    - listitem [ref=e380]: Agentic/LLM/RAG Python Engineer
+                    - listitem [ref=e381]: Senior Python Developer
+                  - heading [level=2] [aria-hidden] [ref=e382]: Where to Find Python Developer Jobs
+                  - list [aria-hidden] [ref=e383]:
+                    - listitem [ref=e384]:
+                      - strong [ref=e385]: Indeed
+                      - text: (U.S. & India)
+                    - listitem [ref=e386]:
+                      - strong [ref=e387]: Naukri.com
+                      - text: (India)
+                    - listitem [ref=e388]:
+                      - strong [ref=e389]: LinkedIn Jobs
+                    - listitem [ref=e390]:
+                      - strong [ref=e391]: Python.org Job Board
+                    - listitem [ref=e392]: Company career pages (Infosys, TCS, Capgemini, Wipro, etc.)
+                  - paragraph [aria-hidden] [ref=e393]: Python developer roles remain abundant across industries such as finance, cloud services, AI/ML, enterprise software, and consulting.
+                - button "Show more" [ref=e399] [cursor=pointer]
+              - generic [ref=e403]:
+                - list "References" [ref=e404]:
+                  - listitem [ref=e405]:
+                    - link [ref=e406] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=d3d62e3b91dc6abb3fc55783b6f7d95204ef0ed49f705bf1ec4bde566debaf71JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1aHR0cHM6Ly93d3cuaW5kZWVkLmNvbS9xLVB5dGhvbi1EZXZlbG9wZXItam9icy5odG1s&ntb=1
+                      - 'generic "Now Hiring: 11,000 Python Developer Jobs | Indeed" [ref=e407]':
+                        - generic [ref=e408]:
+                          - img "Indeed" [ref=e409]
+                          - generic [ref=e410]: Indeed
+                  - listitem [ref=e413]:
+                    - link [ref=e414] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=9e946c70733d8ead68e119ae82bdbaf11154eace294e715454fdd9be790f50a6JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1aHR0cHM6Ly93d3cubmF1a3JpLmNvbS9weXRob24tZGV2ZWxvcGVyLWpvYnM&ntb=1
+                      - generic "4163 Python Developer Job Vacancies In October 2026 - Naukri.com" [ref=e415]:
+                        - generic [ref=e416]:
+                          - img "Naukri.com" [ref=e417]
+                          - generic [ref=e418]: Naukri.com
+                - button "Show all" [ref=e421] [cursor=pointer]:
+                  - generic [ref=e422]:
+                    - img "Indeed" [ref=e424]
+                    - img "Naukri.com" [ref=e426]
+                    - img "LinkedIn" [ref=e428]
+        - listitem [ref=e430]:
+          - link "Naukri.com" [ref=e432] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=9e946c70733d8ead68e119ae82bdbaf11154eace294e715454fdd9be790f50a6JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1aHR0cHM6Ly93d3cubmF1a3JpLmNvbS9weXRob24tZGV2ZWxvcGVyLWpvYnM&ntb=1
+            - img "Global web icon" [ref=e436]
+            - generic [ref=e437]:
+              - generic [ref=e438]: Naukri.com
+              - generic [ref=e439]: https://www.naukri.com › python-developer-jobs
+          - heading [level=2] [ref=e442]:
+            - link "Python Developer Jobs - Naukri.com" [ref=e443] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=9e946c70733d8ead68e119ae82bdbaf11154eace294e715454fdd9be790f50a6JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1aHR0cHM6Ly93d3cubmF1a3JpLmNvbS9weXRob24tZGV2ZWxvcGVyLWpvYnM&ntb=1
+          - paragraph [ref=e445]: Apply To 4416 Python Developer Jobs Available On Naukri.com, India's No.1 Job Portal. Explore Python Developer Job Vacancies …
+        - listitem [ref=e446]:
+          - link "Indeed" [ref=e448] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=8a3c3b2b6a2969d7e8a73c16a3a0f842b64045a6829444fa82f27f6e26ffa761JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1aHR0cHM6Ly9pbi5pbmRlZWQuY29tL3EtcHl0aG9uLWRldmVsb3Blci1sLWluZGlhLWpvYnMuaHRtbA&ntb=1
+            - img "Global web icon" [ref=e452]
+            - generic [ref=e453]:
+              - generic [ref=e454]: Indeed
+              - generic [ref=e455]: https://in.indeed.com › q-python-developer-l-india-jobs.html
+          - heading "3,000 Python Developer Job Vacancies in India | Indeed" [level=2] [ref=e458]:
+            - link "3,000 Python Developer Job Vacancies in India | Indeed":
+              - /url: https://www.bing.com/ck/a?!&&p=8a3c3b2b6a2969d7e8a73c16a3a0f842b64045a6829444fa82f27f6e26ffa761JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1aHR0cHM6Ly9pbi5pbmRlZWQuY29tL3EtcHl0aG9uLWRldmVsb3Blci1sLWluZGlhLWpvYnMuaHRtbA&ntb=1
+          - paragraph [ref=e460]: We are looking for an experienced Python developer to join our engineering team and help us create dynamic software applications …
+        - listitem [ref=e461]:
+          - list [ref=e462]:
+            - listitem [ref=e463]:
+              - generic [ref=e464]:
+                - generic [ref=e465] [cursor=pointer]:
+                  - generic [ref=e466]: catchwork.jobs
+                  - generic [ref=e470]:
+                    - generic [ref=e471]: in.catchwork.jobs › urgent › job
+                    - button [ref=e472]:
+                      - img "About our ads" [ref=e474]
+                - heading [level=2] [ref=e475]:
+                  - link "Junior Python Developer Job New Jobs | Urgently Hiring Now" [ref=e476] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclk?ld=e8i1d4Bj3wa4VsmDi--WYm7zVUCUyH_8I2j_gyUB0l6eZl9N_s1M9UD4ptmfUEsgd4G3vyvH1FGYEtYJg7vVRdHwe7jKQhNXchndeR6Ddr0NFfwnm5-GHn2OeIe7xTL6kLU2_wVEJ8fr5GNowd957uO3T__YV2J46t2iDPJMbOjLtdFjimOyLIYcptXFTbA0k91QNaD2JsbZ5gul3se7LVlOUvvh4&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnJkLnBocCUzZnElM2RqdW5pb3IlMmJweXRob24lMmJkZXZlbG9wZXIlMjZmZWVkX2luJTNkNjIlMmM0NSUyYzYzJTJjNjYlMmM2NyUyYzcxJTJjNzQlMjZwcm9tbyUzZDE3JTI2YXBpJTNkdCUyNl9yJTNkMSUyNm1zY2xraWQlM2Q4M2ZiMWYwNTcyYTAxNGFmMDAzNDc1ZjgxMDNlOGM2NyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCSU4lMjU1RCUyNTVCQ0FUQ0hXT1JLJTI1NUQlMjU1QlJEJTI1NUQlMjUyMFByb2Zlc3Npb25pJTI1MjBKb2JyYXBpZG8lMmMlMjUyMEpvYnJhcGlkbyUyNTIwUHJlbWl1bSUyYyUyNTIwU291cmNpbmclMmMlMjUyMEpvYnRvbWUlMmMlMjUyMEFUVEIlMjUyMCg0NSklMjUyMCg2MiklMjUyMCg2NyklMjUyMCg3MSklMjUyMCg3NCklMjUyMC0lMjUyMGJpbmclMjZ1dG1fdGVybSUzZGp1bmlvciUyNTIwcHl0aG9uJTI1MjBkZXZlbG9wZXIlMjUyMGpvYiUyNnV0bV9jb250ZW50JTNkSU4lMjUyMFByb2Zlc3Npb25p&rlid=83fb1f0572a014af003475f8103e8c67&ntb=1
+                - generic [ref=e477]:
+                  - generic [ref=e478]:
+                    - generic [ref=e479]: Sponsored
+                    - text: "Junior python developer job Job: View all our Urgent Vacancies now. India: No Experience Required for the Latest Job Vacancies"
+                  - generic [ref=e482]:
+                    - strong [ref=e483]: "Site visitors:"
+                    - text: Over 100K in the past month
+                  - generic [ref=e484]: "Types: Part Time, Full Time, Online Jobs"
+                - generic [ref=e488]:
+                  - button "Click to scroll right" [ref=e489] [cursor=pointer]
+                  - list "Please use arrow keys to navigate" [ref=e498]:
+                    - listitem [ref=e499] [cursor=pointer]:
+                      - link "Job Search" [ref=e501]:
+                        - /url: https://www.bing.com/aclk?ld=e854UbBa3o688h06PbQBn8vDVUCUwuGEKglE2INV3bv1hh3HvC4de5dPpzn3p1eBPdPpbu7Evl4XMqidmkYkhE-3hKIIiAiU0Fj0vq_I2DXLnaixF60sD1t5Jwe83aAWRV6lk5Myu8qihUhi1aQmJ3mISKpKg9wswetZaG7SJmSGnM0K4c1k2vxCdD0hCC0TDXLPE8TlX8sXiQwua7cBNmLtorjLX0B0c8yYTk45rXsVgC4zkR&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnNlYXJjaC5waHAlM2YlMjZxJTNkam9iJTI2dyUzZCUyNm1zY2xraWQlM2RkZWUyYmQyMDFhYzYxY2NmNzEzNGQ3ZGQ3ODU4ZDZkMSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCSU4lMjU1RCUyNTVCQ0FUQ0hXT1JLJTI1NUQlMjU1QlJEJTI1NUQlMjUyMFByb2Zlc3Npb25pJTI1MjBKb2JyYXBpZG8lMmMlMjUyMEpvYnJhcGlkbyUyNTIwUHJlbWl1bSUyYyUyNTIwU291cmNpbmclMmMlMjUyMEpvYnRvbWUlMmMlMjUyMEFUVEIlMjUyMCg0NSklMjUyMCg2MiklMjUyMCg2NyklMjUyMCg3MSklMjUyMCg3NCklMjUyMC0lMjUyMGJpbmclMjZ1dG1fdGVybSUzZGp1bmlvciUyNTIwcHl0aG9uJTI1MjBkZXZlbG9wZXIlMjUyMGpvYiUyNnV0bV9jb250ZW50JTNkSU4lMjUyMFByb2Zlc3Npb25p&rlid=dee2bd201ac61ccf7134d7dd7858d6d1&ntb=1
+                    - listitem [ref=e503] [cursor=pointer]:
+                      - link "Platform Job Offers" [ref=e505]:
+                        - /url: https://www.bing.com/aclk?ld=e8Vk0t6O7blwfRx530CzdQ6DVUCUxPbwoPXgODCzki9TsPGkVzjOmLsUui6zTFHG_NX-VwDLn7HsGh6ohzcLHhtdl4-nB7KfC-stqpxz5AR78uSdajXsSDKVocONhe_5KQDn7tQWRh-f0yK3ZISkD1ZKflLh7TAIHdNpQ7ZFItCyaHu2MhAqdP-E0t7mcia25Tt7uoPfXrIYBDIM5Q4XFouZEpDZ0GXDJVoktfMVOhWZL_6Tuv&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnNlYXJjaC5waHAlM2YlMjZwcm9tbyUzZDE3JTI2cSUzZGpvYiUyNnclM2QlMjZtc2Nsa2lkJTNkMTFlYjJhOGM0NjNlMWQwNGEzODM0MDcxMjRhMGY0YzUlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QklOJTI1NUQlMjU1QkNBVENIV09SSyUyNTVEJTI1NUJSRCUyNTVEJTI1MjBQcm9mZXNzaW9uaSUyNTIwSm9icmFwaWRvJTJjJTI1MjBKb2JyYXBpZG8lMjUyMFByZW1pdW0lMmMlMjUyMFNvdXJjaW5nJTJjJTI1MjBKb2J0b21lJTJjJTI1MjBBVFRCJTI1MjAoNDUpJTI1MjAoNjIpJTI1MjAoNjcpJTI1MjAoNzEpJTI1MjAoNzQpJTI1MjAtJTI1MjBiaW5nJTI2dXRtX3Rlcm0lM2RqdW5pb3IlMjUyMHB5dGhvbiUyNTIwZGV2ZWxvcGVyJTI1MjBqb2IlMjZ1dG1fY29udGVudCUzZElOJTI1MjBQcm9mZXNzaW9uaQ&rlid=11eb2a8c463e1d04a383407124a0f4c5&ntb=1
+                    - listitem [ref=e507] [cursor=pointer]:
+                      - link "Sarkari Job Results" [ref=e509]:
+                        - /url: https://www.bing.com/aclk?ld=e87yhG7lKl4ffnIwJ7S3hyWzVUCUyuHOII66QzitxxCp8eC5c8ne06viFKZsGXDMdxp3R1bDsEbHkvhFJqpi2aEoCF6rW1_hvJ6cE8A9K0WUYjx6zBepJFjPpp7rxbeVslBRQVINcHRJQhVCVBXQwKTNyn17Y-ohw12BvtUc8JRgwVG2_cNu6Lvb1bUAyj2RH2f_I7QlBx2gQSwT3gGleXs677_sdA2bId9eJkN4_w_9ocGCe2&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnNlYXJjaC5waHAlM2YlMjZxJTNkc2Fya2FyaSUyNnclM2QlMjZwcm9tbyUzZDE3JTI2bXNjbGtpZCUzZGYzNmUwNjU3OWE4NjE2MTQ2MjBkNmNhYWY4MTg3NGQxJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkJTI1NUJJTiUyNTVEJTI1NUJDQVRDSFdPUkslMjU1RCUyNTVCUkQlMjU1RCUyNTIwUHJvZmVzc2lvbmklMjUyMEpvYnJhcGlkbyUyYyUyNTIwSm9icmFwaWRvJTI1MjBQcmVtaXVtJTJjJTI1MjBTb3VyY2luZyUyYyUyNTIwSm9idG9tZSUyYyUyNTIwQVRUQiUyNTIwKDQ1KSUyNTIwKDYyKSUyNTIwKDY3KSUyNTIwKDcxKSUyNTIwKDc0KSUyNTIwLSUyNTIwYmluZyUyNnV0bV90ZXJtJTNkanVuaW9yJTI1MjBweXRob24lMjUyMGRldmVsb3BlciUyNTIwam9iJTI2dXRtX2NvbnRlbnQlM2RJTiUyNTIwUHJvZmVzc2lvbmk&rlid=f36e06579a861614620d6caaf81874d1&ntb=1
+                    - listitem [ref=e511] [cursor=pointer]:
+                      - link "Job Offers & Hiring..." [ref=e513]:
+                        - /url: https://www.bing.com/aclk?ld=e8ziN79pUQlWPPuGZeGUtdyTVUCUx_n7cEq_IbuASkyKzqlqz_88NGEwTXPKhMv3psaNgUGNlkP6_AyUYjl5C8-4dUY11WiWB7-UCuY9gjUjSkdMni83Ho5aOU3d3PxOrmh9MrKLwJXjHVphaOHPROdCnsJ01U8WqZZ3uEZT44IQi5Om_Mx7fMGtFb5NufFVhXIWqy67FRW9DKwP0g-bLcwV41qk-cP-5x6_KJlIdZO3Dqq4Ve&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnNlYXJjaC5waHAlM2YlMjZwcm9tbyUzZDE3JTI2cSUzZGpvYiUyNnclM2QlMjZtc2Nsa2lkJTNkNzAyY2E4NWE0N2E1MTc5OWNjZDJjMmE3MjUzYmQ4YjMlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QklOJTI1NUQlMjU1QkNBVENIV09SSyUyNTVEJTI1NUJSRCUyNTVEJTI1MjBQcm9mZXNzaW9uaSUyNTIwSm9icmFwaWRvJTJjJTI1MjBKb2JyYXBpZG8lMjUyMFByZW1pdW0lMmMlMjUyMFNvdXJjaW5nJTJjJTI1MjBKb2J0b21lJTJjJTI1MjBBVFRCJTI1MjAoNDUpJTI1MjAoNjIpJTI1MjAoNjcpJTI1MjAoNzEpJTI1MjAoNzQpJTI1MjAtJTI1MjBiaW5nJTI2dXRtX3Rlcm0lM2RqdW5pb3IlMjUyMHB5dGhvbiUyNTIwZGV2ZWxvcGVyJTI1MjBqb2IlMjZ1dG1fY29udGVudCUzZElOJTI1MjBQcm9mZXNzaW9uaQ&rlid=702ca85a47a51799ccd2c2a7253bd8b3&ntb=1
+                    - listitem [ref=e515] [cursor=pointer]:
+                      - link "Akola Job Offers" [ref=e517]:
+                        - /url: https://www.bing.com/aclk?ld=e8fWXQYBmlmen9NtXScDfbhjVUCUw4o2uMkHekonJPTafzHYQQ1NbOPTRi0WOhp9B0-NgvLHez89eAKqgcyydLxQ0SvkSEC1dZgJe18lQKBiLvwWannkkkpF0fY3xz-OMX_pvahHXB1aRXluNucO80g06Fgjh1eXrNNxR_r1c1zCRolvNeBnjvw0xcDHFR4oNmf0cB8n08M2PsIN8-2-_BxFdGCaWdIUQDfoT0GwxYCAwf7AU-&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnNlYXJjaC5waHAlM2YlMjZxJTNkam9iJTI2dyUzZGFrb2xhJTI2cHJvbW8lM2QxNyUyNm1zY2xraWQlM2RmNWFkNWI1YmZmMDYxNjMyNjNiYTMxYTY5ZDk4YWI0NCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCSU4lMjU1RCUyNTVCQ0FUQ0hXT1JLJTI1NUQlMjU1QlJEJTI1NUQlMjUyMFByb2Zlc3Npb25pJTI1MjBKb2JyYXBpZG8lMmMlMjUyMEpvYnJhcGlkbyUyNTIwUHJlbWl1bSUyYyUyNTIwU291cmNpbmclMmMlMjUyMEpvYnRvbWUlMmMlMjUyMEFUVEIlMjUyMCg0NSklMjUyMCg2MiklMjUyMCg2NyklMjUyMCg3MSklMjUyMCg3NCklMjUyMC0lMjUyMGJpbmclMjZ1dG1fdGVybSUzZGp1bmlvciUyNTIwcHl0aG9uJTI1MjBkZXZlbG9wZXIlMjUyMGpvYiUyNnV0bV9jb250ZW50JTNkSU4lMjUyMFByb2Zlc3Npb25p&rlid=f5ad5b5bff06163263ba31a69d98ab44&ntb=1
+                    - listitem [ref=e519] [cursor=pointer]:
+                      - link "Job Vacancies Akola City" [ref=e521]:
+                        - /url: https://www.bing.com/aclk?ld=e8tkiRo3HA76W2E6TTieuyEDVUCUw1UyYurOZtlo95FrYV-i5rrYA8ryE00W29d2lK1zk2WkvZ3Xb3YtW7zgddf9ibW79TNvVi4j2AMwNovBmn3mgEioIOUkzzQMQtpo98EQRMagIH22WMhH4fF3yabML3iogRW0HFfJVgNAEnKyKD21zR7pf1k0GFCYCKCZasF5yctwNCTjzPe7mWu62B5iig4hx5ZXl5V3jUqIDgXB8b-B-E&u=aHR0cHMlM2ElMmYlMmZpbi5jYXRjaHdvcmsuam9icyUyZmFkcyUyZnNlYXJjaC5waHAlM2YlMjZxJTNkam9iJTI2dyUzZGFrb2xhJTI2cHJvbW8lM2QxNyUyNm1zY2xraWQlM2Q3OWIzOTI5ODg0NDQxMGJkYzgzYWY4NjVlNmRhYTZmZiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCSU4lMjU1RCUyNTVCQ0FUQ0hXT1JLJTI1NUQlMjU1QlJEJTI1NUQlMjUyMFByb2Zlc3Npb25pJTI1MjBKb2JyYXBpZG8lMmMlMjUyMEpvYnJhcGlkbyUyNTIwUHJlbWl1bSUyYyUyNTIwU291cmNpbmclMmMlMjUyMEpvYnRvbWUlMmMlMjUyMEFUVEIlMjUyMCg0NSklMjUyMCg2MiklMjUyMCg2NyklMjUyMCg3MSklMjUyMCg3NCklMjUyMC0lMjUyMGJpbmclMjZ1dG1fdGVybSUzZGp1bmlvciUyNTIwcHl0aG9uJTI1MjBkZXZlbG9wZXIlMjUyMGpvYiUyNnV0bV9jb250ZW50JTNkSU4lMjUyMFByb2Zlc3Npb25p&rlid=79b39298844410bdc83af865e6daa6ff&ntb=1
+            - listitem [ref=e523]:
+              - generic [ref=e524]:
+                - generic [ref=e525] [cursor=pointer]:
+                  - generic [ref=e526]: FlexJobs
+                  - generic [ref=e530]:
+                    - generic [ref=e531]: www.flexjobs.com › find-jobs › hiring
+                    - button [ref=e532]:
+                      - img "About our ads" [ref=e534]
+                    - text: Carbon-neutral
+                - heading [level=2] [ref=e535]:
+                  - link "Fully Remote Companies Hiring | 2026's Best Remote Jobs Site" [ref=e536] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclk?ld=e8bZQxSZHYKo1zfg-MuHk_sTVUCUy5Lvw7EJLG0zrdUNt0pph7MIABswNv3KxkUEcGh4MRT2YUwiIyWM4pFuCcDkdKwRvxe4IJf1Y9yTTvH0sXksT7Ee_TYP_oKVDAyyK6VNw83hTEGMo5uo7dJPwrRfoUhiiAp8VDdRXR-9v2rU6kd7rQx738mBIBGvPKD-HVPPDgR1OJyq6Q7_4pSMM7e7K7Gno&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmbHAlMmZyZW1vdGUtam9iczElM2ZuZXR3b3JrJTNkbyUyNmRldmljZSUzZGMlMjZhZHBvc2l0aW9uJTNkJTI2YWRncm91cGlkJTNkMTI2NjYzOTA0MTcyMjkxOCUyNnBsYWNlbWVudCUzZCUyNmFkaWQlM2QlMjZtc2Nsa2lkJTNkN2U0NmIxZmE3NjYzMTQyM2MyMzZkYjA3MTRmZGNhZDMlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QnBtYXglMjU1RCUyNTIwcm93X3Byb3NwZWN0aW5nJTI2dXRtX3Rlcm0lM2R3d3cuZmxleGpvYnMuY29tJTI2dXRtX2NvbnRlbnQlM2Rqb2Itc2Vla2Vycy1oaXJpbmctZ2VuZXJhbC1jb3B5&rlid=7e46b1fa76631423c236db0714fdcad3&ntb=1
+                - generic [ref=e537]:
+                  - generic [ref=e538]:
+                    - generic [ref=e539]: Sponsored
+                    - text: Find & Apply To Expert-Verified Remote Jobs Hiring Immediately Near You & Across The Globe. Upload Your Resume & Start Searching. We’ve Helped People Land Remote Jobs Since 2007.
+                  - paragraph [ref=e542]: Apply from Anywhere · Save Time Searching · Expert-Verified Listings
+                  - generic [ref=e543]: Job Types, Executive, Side Jobs, Part-Time, Full-Time and more
+                - generic [ref=e547]:
+                  - button "Click to scroll right" [ref=e548] [cursor=pointer]
+                  - list "Please use arrow keys to navigate" [ref=e557]:
+                    - listitem [ref=e558] [cursor=pointer]:
+                      - link "Work-From-Home Jobs" [ref=e560]:
+                        - /url: https://www.bing.com/aclk?ld=e8G16thYLQWKHjT99GY8k7NDVUCUxPCgTKAfh2e9cMml_4E_HtKwlRF5sbzHu5hQMAzECCmvx1xmRfQIYtSnZk8kxe0Q5ZevDnjI2XAu28Hu0LkABKuMmfjrgGC1GbzOUEyDTyJ00VBmFPsOsKL6rY_woHrHxaWrnJfU-fL1ZxbhauYrAMoNr-XErdpnBlgbACN0RPC41tatmGps5RYYvAcp8NWSSkNGPxE4eHiVuGDFLMbi8m&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmYmxvZyUyZnBvc3QlMmYxMC1ncmVhdC13b3JrLWhvbWUtam9icy1zdGF5LWhvbWUtbW9tcyUyZiUzZm5ldHdvcmslM2RvJTI2ZGV2aWNlJTNkYyUyNmFkcG9zaXRpb24lM2QlMjZhZGdyb3VwaWQlM2QxMjY2NjM5MDQxNzIyOTE4JTI2cGxhY2VtZW50JTNkJTI2YWRpZCUzZCUyNm1zY2xraWQlM2Q2ZWQ4OTRiYTI1MWQxN2Q1Y2VhNGZlNDc0NzgzOWUxYiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCcG1heCUyNTVEJTI1MjByb3dfcHJvc3BlY3RpbmclMjZ1dG1fdGVybSUzZHd3dy5mbGV4am9icy5jb20lMjZ1dG1fY29udGVudCUzZGpvYi1zZWVrZXJzLWhpcmluZy1nZW5lcmFsLWNvcHk&rlid=6ed894ba251d17d5cea4fe4747839e1b&ntb=1
+                    - listitem [ref=e562] [cursor=pointer]:
+                      - link "Remote Work From Home" [ref=e564]:
+                        - /url: https://www.bing.com/aclk?ld=e8vG8t6Wx-Om-tnK0VxgSs6TVUCUwrdHzUw6WKL73b42TPK_RoMzYso_3qm4_Ooec6Uc8xE2qflJSvIGVJNftQd0eN5rlx0bwRZB3jqrrex0X3dFwoiE_S0ra4iKrpkZsuAc3Uj6xyJQmoxc9nmuvYNZeNXL8p3ZmT9Ye1RQy_23B6C3RSBnsNBJ58WgzRhDwouG_Oi3Y4oI_oWaF24ZM9uxjS1OrrkHAVYgz-kw--ATpLdK_U&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmcmVnaXN0cmF0aW9uJTJmc2lnbnVwJTNmbmV0d29yayUzZG8lMjZkZXZpY2UlM2RjJTI2YWRwb3NpdGlvbiUzZCUyNmFkZ3JvdXBpZCUzZDEyNjY2MzkwNDE3MjI5MTglMjZwbGFjZW1lbnQlM2QlMjZhZGlkJTNkJTI2bXNjbGtpZCUzZDFlYzAxZGRhMDcyYTE0MGI5ZjBiNzcyNzY1YjRjZGJhJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkJTI1NUJwbWF4JTI1NUQlMjUyMHJvd19wcm9zcGVjdGluZyUyNnV0bV90ZXJtJTNkd3d3LmZsZXhqb2JzLmNvbSUyNnV0bV9jb250ZW50JTNkam9iLXNlZWtlcnMtaGlyaW5nLWdlbmVyYWwtY29weQ&rlid=1ec01dda072a140b9f0b772765b4cdba&ntb=1
+                    - listitem [ref=e566] [cursor=pointer]:
+                      - link "10 Jobs Paying $25/Hour" [ref=e568]:
+                        - /url: https://www.bing.com/aclk?ld=e8uZUcRHFbPNp8UQqHBs2zWjVUCUxr5zgmdQ1NKWRN7h5aoWhiT2xDDNsxsAfsUOBMtA4hQ1DCTPJ3GeVoi-Qdfdsd1xMTjbftzAo3rBqMl5KQnfwHnvPvhwqLSaWM5_Hch8dAroRPtlCNJa81LdOBVdFwVHVkQnpdDfdifVrhBwq8FsIj7wBld27g2DsuBufqwRT9N7M0vSHefMEzYcJ3qWi-5Enw4K5fxfwP8aZMY-NtGsyA&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmYmxvZyUyZnBvc3QlMmZ3b3JrLWZyb20taG9tZS1qb2JzLTI1LXBlci1ob3VyJTJmJTNmbmV0d29yayUzZG8lMjZkZXZpY2UlM2RjJTI2YWRwb3NpdGlvbiUzZCUyNmFkZ3JvdXBpZCUzZDEyNjY2MzkwNDE3MjI5MTglMjZwbGFjZW1lbnQlM2QlMjZhZGlkJTNkJTI2bXNjbGtpZCUzZGVlMDFhMWVkMDI1NjFiOGE2YjA4Y2IxMDYwYzhiODk4JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkJTI1NUJwbWF4JTI1NUQlMjUyMHJvd19wcm9zcGVjdGluZyUyNnV0bV90ZXJtJTNkd3d3LmZsZXhqb2JzLmNvbSUyNnV0bV9jb250ZW50JTNkam9iLXNlZWtlcnMtaGlyaW5nLWdlbmVyYWwtY29weQ&rlid=ee01a1ed02561b8a6b08cb1060c8b898&ntb=1
+                    - listitem [ref=e570] [cursor=pointer]:
+                      - link "Part-Time Remote Jobs" [ref=e572]:
+                        - /url: https://www.bing.com/aclk?ld=e8ofQeZEnJT1vhCiHtJvxzlzVUCUzeQjRKcLkByrKh6gMOq818xXRZZmYuhs2VIuhhm63JX-wKsXFRfCzcdzpwrJTCGmYAWbSPWFBCmYBQq2oDpAP3BRPHC-HLgKEnkr_Ue34KbF8kEBY6QMiQNBOFENBhVJqh8wq9vUM8AgZZG4YrbYhAaKtCE5U2WfG70aPQswmhi6rKFz--0O2UjjX-Dm8XlQMZaw17-H8A77UT2ucuTQ0Q&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmYmxvZyUyZnBvc3QlMmZjb21wYW5pZXMtaGlyaW5nLXBhcnQtdGltZS1yZW1vdGUtd29yay1mcm9tLWhvbWUtam9icyUyZiUzZm5ldHdvcmslM2RvJTI2ZGV2aWNlJTNkYyUyNmFkcG9zaXRpb24lM2QlMjZhZGdyb3VwaWQlM2QxMjY2NjM5MDQxNzIyOTE4JTI2cGxhY2VtZW50JTNkJTI2YWRpZCUzZCUyNm1zY2xraWQlM2Q4YTRjNjJhOTc1YjgxYzk0MzY5MDA4NTQxNzI2MGI0MCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCcG1heCUyNTVEJTI1MjByb3dfcHJvc3BlY3RpbmclMjZ1dG1fdGVybSUzZHd3dy5mbGV4am9icy5jb20lMjZ1dG1fY29udGVudCUzZGpvYi1zZWVrZXJzLWhpcmluZy1nZW5lcmFsLWNvcHk&rlid=8a4c62a975b81c943690085417260b40&ntb=1
+                    - listitem [ref=e574] [cursor=pointer]:
+                      - link "Part-Time Jobs" [ref=e576]:
+                        - /url: https://www.bing.com/aclk?ld=e83fAW-oCHge1bmx3eC4BPWzVUCUy8LczrNj6F4C58BHwgNKyCL5l_2rMkB8hXbRXmlHMiPOM8RUtaFQSVaV4VbB6cDphS4NxH92P7IvnVSmzFBDo9kAYJm5cE2gW2bTpATyVdIoGPPlGAVM8FIZ147gYzVxOTPDQ4Kkajx8nrsLIBPd-fZbZ0G1O6d_SWOmy97wD2FmqsFoh5CjWZxwwXx_6RFcToeH1Ee4-D0k-L7ggjTm_2&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmYmxvZyUyZnBvc3QlMmZjb21wYW5pZXMtaGlyaW5nLXBhcnQtdGltZS1yZW1vdGUtd29yay1mcm9tLWhvbWUtam9icyUyZiUzZm5ldHdvcmslM2RvJTI2ZGV2aWNlJTNkYyUyNmFkcG9zaXRpb24lM2QlMjZhZGdyb3VwaWQlM2QxMjY2NjM5MDQxNzIyOTE4JTI2cGxhY2VtZW50JTNkJTI2YWRpZCUzZCUyNm1zY2xraWQlM2RlNmM2ZGNjMDI0ODgxYjQzNDhjMWI2M2Q0NjE2NjhhMiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCcG1heCUyNTVEJTI1MjByb3dfcHJvc3BlY3RpbmclMjZ1dG1fdGVybSUzZHd3dy5mbGV4am9icy5jb20lMjZ1dG1fY29udGVudCUzZGpvYi1zZWVrZXJzLWhpcmluZy1nZW5lcmFsLWNvcHk&rlid=e6c6dcc024881b4348c1b63d461668a2&ntb=1
+                    - listitem [ref=e578] [cursor=pointer]:
+                      - link "18 Entry Level Jobs" [ref=e580]:
+                        - /url: https://www.bing.com/aclk?ld=e8iRQvy-3eD7uN0lw98-JaPDVUCUyeEwMzCmrS4NVpLkCFOAZQ7xh_XhhHZhZwBmARKtudVH-4CoXd8kdHzU4rzvpGVd9Hec1a677Urnq6YSbK8jzx6UzWL525_nCLF4al60csiv2Vcj4FDx4J80n7aqz_DOFFP1aUlJV6vudUBgN4465P9iHyGsGkTx3Qkb4WRi3muD2QwETOKTfji2Vc9FEXeeQbEB5VPQRwIbsY_LmgibNc&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmYmxvZyUyZnBvc3QlMmZlbnRyeS1sZXZlbC1yZW1vdGUtam9icy1uZXctY29sbGVnZS1ncmFkdWF0ZXMtdjIlMmYlM2ZuZXR3b3JrJTNkbyUyNmRldmljZSUzZGMlMjZhZHBvc2l0aW9uJTNkJTI2YWRncm91cGlkJTNkMTI2NjYzOTA0MTcyMjkxOCUyNnBsYWNlbWVudCUzZCUyNmFkaWQlM2QlMjZtc2Nsa2lkJTNkNmViZTM0ZDc2N2ZjMTZkYWM1N2M1ZTJhMDU2MjdlMWMlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QnBtYXglMjU1RCUyNTIwcm93X3Byb3NwZWN0aW5nJTI2dXRtX3Rlcm0lM2R3d3cuZmxleGpvYnMuY29tJTI2dXRtX2NvbnRlbnQlM2Rqb2Itc2Vla2Vycy1oaXJpbmctZ2VuZXJhbC1jb3B5&rlid=6ebe34d767fc16dac57c5e2a05627e1c&ntb=1
+                    - listitem [ref=e582] [cursor=pointer]:
+                      - link "Data Entry Jobs" [ref=e584]:
+                        - /url: https://www.bing.com/aclk?ld=e8kTVp4SUNSUxx_eF8FHe9-jVUCUwMwC1BQwRaIkVwHqqo_yM7PGSAzHL1dDz0vTkam-UCZW0-4wJnyiU4EbKUoQdA60L6LwRgVYOHHXSnkNJQrRw6Q8v-XHQwv4yKVuN9NRpwmybd96JSW5gHmF1dVoX1TrV85n8gVvVY4jbCv-VNHJcfXCGy1gxhoWplzutlQ6Lk05TL3vfd6LCuJl3zh98geoo0Auh9Qgaz8EiqC0bhGc59&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmam9icyUyZmRhdGEtZW50cnklM2ZuZXR3b3JrJTNkbyUyNmRldmljZSUzZGMlMjZhZHBvc2l0aW9uJTNkJTI2YWRncm91cGlkJTNkMTI2NjYzOTA0MTcyMjkxOCUyNnBsYWNlbWVudCUzZCUyNmFkaWQlM2QlMjZtc2Nsa2lkJTNkNzFhZmQ1ZDRiZTJkMWI5OGQwZjdiZjI5ZGNiM2YxMjklMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QnBtYXglMjU1RCUyNTIwcm93X3Byb3NwZWN0aW5nJTI2dXRtX3Rlcm0lM2R3d3cuZmxleGpvYnMuY29tJTI2dXRtX2NvbnRlbnQlM2Rqb2Itc2Vla2Vycy1oaXJpbmctZ2VuZXJhbC1jb3B5&rlid=71afd5d4be2d1b98d0f7bf29dcb3f129&ntb=1
+                    - listitem [ref=e586] [cursor=pointer]:
+                      - link "30 Part-Time Remote Jobs" [ref=e588]:
+                        - /url: https://www.bing.com/aclk?ld=e8pIZ6AH5A1GOaWJ--rFKvjTVUCUzLJJybniAZyUPBctkhTAX5lZBY0eX339iPF0l6gSVN0-oYu8ctif17iFr3frJg_tdSLjmrxv19Fw54H2x0HKheWnCeGfe5OpCqFVzlI4fCt0LOuLA0wq-Q45Xw-9-jDfauKfYyq9uSEOwFTKm0O5JLN_RARl6k2Tf9HUk37ws7qqj8NB-ZBLGFVbyCgpMXVy40Xyy4aeWAh4M8QwQqI9w6&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmxleGpvYnMuY29tJTJmYmxvZyUyZnBvc3QlMmZjb21wYW5pZXMtaGlyaW5nLXBhcnQtdGltZS1yZW1vdGUtd29yay1mcm9tLWhvbWUtam9icyUyZiUzZm5ldHdvcmslM2RvJTI2ZGV2aWNlJTNkYyUyNmFkcG9zaXRpb24lM2QlMjZhZGdyb3VwaWQlM2QxMjY2NjM5MDQxNzIyOTE4JTI2cGxhY2VtZW50JTNkJTI2YWRpZCUzZCUyNm1zY2xraWQlM2RjZjQ2MWI4NTMyYzkxM2ViNTZkZDcxNzg1MDU3N2Y1ZSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCcG1heCUyNTVEJTI1MjByb3dfcHJvc3BlY3RpbmclMjZ1dG1fdGVybSUzZHd3dy5mbGV4am9icy5jb20lMjZ1dG1fY29udGVudCUzZGpvYi1zZWVrZXJzLWhpcmluZy1nZW5lcmFsLWNvcHk&rlid=cf461b8532c913eb56dd717850577f5e&ntb=1
+            - listitem [ref=e590]:
+              - generic [ref=e591]:
+                - generic [ref=e592] [cursor=pointer]:
+                  - generic [ref=e593]: Mobexer - The Best Apps
+                  - generic [ref=e597]:
+                    - generic [ref=e598]: https://www.mobexer.com
+                    - button [ref=e599]:
+                      - img "About our ads" [ref=e601]
+                    - text: Web accessibility
+                  - link "Download" [ref=e607]:
+                    - /url: https://www.bing.com/aclk?ld=e8jyWGkrkQU_Hs5oyQFez5gTVUCUzAKH6daOux8e6o8thvBvDbhu-sbbD7VdbdSmgQT3qFYcR09JattNpPpVqaZ3jD7v_SRwGG-fBATsV2OpS7O0XYvc_mlXdwC6xiJHCr678Q8UR4QQyP2XBkC0lZDR6sJoQhsklDnWdQnhz3WCHA_xPg0yWru4hkTD5bD9dHZDALIGCcgmR4eNPHaA1R7uhWZz_IWRNjwFkBqRhe89mjbjba&u=aHR0cHMlM2ElMmYlMmZ3d3cubW9iZXhlci5jb20lMmZqb2Itc2VhcmNoLWJ5LXppcHJlY3J1aXRlciUyZmNvbS56aXByZWNydWl0ZXIuYW5kcm9pZC5yZWxlYXNlJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkNjA1ODg0NTUxJTI2dXRtX2NvbnRlbnQlM2QxMzQxNDA2NzMyMzk5NDAyJTI2dXRtX3Rlcm0lM2Rrd2QtODM4MzkyMDU0NTc1NjglMjZtc2Nsa2lkJTNkOWVkMTEyYzE1MjEzMWM1ZjMxZjc3ODNjMzA4ZDY3ODY&rlid=9ed112c152131c5f31f7783c308d6786&ntb=1
+                - heading [level=2] [ref=e609]:
+                  - link "Find Work Instantly | Unlock Career Paths" [ref=e610] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclk?ld=e8kMW8RKRsHyaSjRH86B3KDTVUCUw6AE3q9NYzYJrrXBqFx59hZg2EARwPSy8Ur6J9xxoHYSi6w-NTAyRuvWC_91s1-n_ntijIA085jTIRDHuTZaTIRnH9Mdm2BbrTCUt7YUNZX7nnVH9PnNxF0nr92zBUFWshQm_2A7AbZzgIHJ8YpE6nYRl7t39EopGlPkcOVIBpoCOzkhaxR2qWrHdRAPhlrnY&u=aHR0cHMlM2ElMmYlMmZ3d3cubW9iZXhlci5jb20lMmZqb2Itc2VhcmNoLWJ5LXppcHJlY3J1aXRlciUyZmNvbS56aXByZWNydWl0ZXIuYW5kcm9pZC5yZWxlYXNlJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkNjA1ODg0NTUxJTI2dXRtX2NvbnRlbnQlM2QxMzQxNDA2NzMyMzk5NDAyJTI2dXRtX3Rlcm0lM2Rrd2QtODM4MzkyMDU0NTc1NjglMjZtc2Nsa2lkJTNkYWE0ZDNhODQzNzcwMTI4ZTM5MGQ1MDc5NTVlZTA0YzI&rlid=aa4d3a843770128e390d507955ee04c2&ntb=1
+                - generic [ref=e611]:
+                  - generic [ref=e612]:
+                    - generic [ref=e613]: Sponsored
+                    - text: Search jobs and get hired. Connect with top employers.
+                  - generic [ref=e616]:
+                    - strong [ref=e617]: "Site visitors:"
+                    - text: Over 1M in the past month
+                  - paragraph [ref=e618]: User-Friendly Interface · Customizable Job Alerts · Extensive Job Listings
+                  - generic [ref=e619]: App Features, Salary Estimator, One-Click Apply, Job Alerts, Search Filters and more
+                - generic [ref=e620]:
+                  - list [ref=e621]:
+                    - listitem [ref=e622]:
+                      - link "Play Store App for Free" [ref=e624] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8nANoWlrneaMlYAZWSKJxeTVUCUyAd7oX1kn2T0y7zoJYV0H4rXp1S8ErexPlyo-sbIBS0bkF6NqVylmeArw76OyOqeEKNBjqvJoUsbHhUb5iqoo48J9BN9UVA8BqeaIGO2qwUgOzuOwK8mHXM2I3vW7DFLWG9Q-1tEZYEmiB3ZkjuXKR-u8Nm8YJZ5QAqap84_tBuJqW2MD2ZKOjMt_mgQgcRjHm_d1IJvOthgMwCvgtmuaV&u=aHR0cHMlM2ElMmYlMmZ3d3cubW9iZXhlci5jb20lMmZnb29nbGUtcGxheS1zZXJ2aWNlcyUyZmNvbS5nb29nbGUuYW5kcm9pZC5nbXMlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q2MDU4ODQ1NTElMjZ1dG1fY29udGVudCUzZDEzNDE0MDY3MzIzOTk0MDIlMjZ1dG1fdGVybSUzZGt3ZC04MzgzOTIwNTQ1NzU2OCUyNm1zY2xraWQlM2RiNjQwY2Y2YmYxMGMxOWU1M2M4MmE1OTY5MzkyOTY4OA&rlid=b640cf6bf10c19e53c82a59693929688&ntb=1
+                    - listitem [ref=e625]:
+                      - link "Play Among Us for Free" [ref=e627] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e87NyTWxHnq4s-jc7I-o3EOzVUCUyCZXkii-IjebWcWHEqQjzsekMR8Qf9VXtKiH5hpa6eNocCM2DfvPFXrnM1u5dGnoFjssHEjxklM_sl88bPSmxcs9_zc17jtKvoPSKLxu17pv_njghULIBenuJGsUwdTfDWZLWWvuhPksV6ADrUrZond9AXlugoVPk0MgN4LYoBGntfFQmlCfyqMjEos9BCHPb_-hxj9f9Guu4ZVF1vUsez&u=aHR0cHMlM2ElMmYlMmZ3d3cubW9iZXhlci5jb20lMmZhbW9uZy11cyUyZmNvbS5pbm5lcnNsb3RoLnNwYWNlbWFmaWElM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q2MDU4ODQ1NTElMjZ1dG1fY29udGVudCUzZDEzNDE0MDY3MzIzOTk0MDIlMjZ1dG1fdGVybSUzZGt3ZC04MzgzOTIwNTQ1NzU2OCUyNm1zY2xraWQlM2RjZGRjY2MwMGJhM2UxZmExNTg2YmE2ZmRkOGEwZDMwZA&rlid=cddccc00ba3e1fa1586ba6fdd8a0d30d&ntb=1
+                  - list [ref=e628]:
+                    - listitem [ref=e629]:
+                      - link "The Best Games" [ref=e631] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8CjkgvdjpdEsHxmc22AghOTVUCUxd_eT9vdLlPmtWhtat6-3yhZO9yABGIQb1ovwxpQQ2E7ijkIk7ZNpDQ6XaklYaMDU8FG0VVGlezV7glvtpko9Ex5VaQT-vq7VKSZQ9pFX4xNcSlu9WAcS6hFSoCWE5bTj_HCA6D9Zq4r-oL89YO_rwv6MdYbztf9-jlaW2gi_g87w_fiR22X7y0gPm61mL95MGL_RXVmXW7c4ScJ3RPPG3&u=aHR0cHMlM2ElMmYlMmZ3d3cubW9iZXhlci5jb20lMmZnYW1lcyUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZDYwNTg4NDU1MSUyNnV0bV9jb250ZW50JTNkMTM0MTQwNjczMjM5OTQwMiUyNnV0bV90ZXJtJTNka3dkLTgzODM5MjA1NDU3NTY4JTI2bXNjbGtpZCUzZGQ4ODkyYWIyZTE5MTFhZjc2ODU3NDA0ZjgzMGYyMjFh&rlid=d8892ab2e1911af76857404f830f221a&ntb=1
+                    - listitem [ref=e632]:
+                      - link "Messaging Apps" [ref=e634] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8OsxhZjagoaNzp_7aOEoSXTVUCUwl8yu-lNW3qg15STZfBJTzAdl6Da3FnOzElCZuRlecPXLPTZlSUCuEPdqxZU6HEEVPLAfobJBNvmh37iYxUm_MQnn120NlHgbzszSPO-5IWEOSUZtiI1YL3TeTcklK8LBgSmZyePyOqtjCklshj47Lyd4C31lTwOcFToJbVde6U7y19x02uIHRjUoww_8JOo1qvUTMiuugZ090Zi1fxvqB&u=aHR0cHMlM2ElMmYlMmZ3d3cubW9iZXhlci5jb20lMmZjYXRlZ29yeSUyZmNvbW11bmljYXRpb24lM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q2MDU4ODQ1NTElMjZ1dG1fY29udGVudCUzZDEzNDE0MDY3MzIzOTk0MDIlMjZ1dG1fdGVybSUzZGt3ZC04MzgzOTIwNTQ1NzU2OCUyNm1zY2xraWQlM2Q4NzY0NTRiYmZkOTUxYzUzMDRiNTNlNDY5ZjBiOWI2ZQ&rlid=876454bbfd951c5304b53e469f0b9b6e&ntb=1
+        - listitem [ref=e635]:
+          - generic [ref=e637]:
+            - generic [ref=e639]:
+              - heading [level=2] [ref=e641]:
+                - link "Videos of Python Developer Jobs" [ref=e642] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=2ea58a1b879409acbc01c4c0cfd203a50eb580f85192846c29d419edba21d74aJmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9zZWFyY2g_cT1QeXRob24rZGV2ZWxvcGVyK2pvYnMmcXB2dD1QeXRob24rZGV2ZWxvcGVyK2pvYnMmRk9STT1WRFJF&ntb=1
+              - generic [ref=e650]:
+                - button "Click to scroll right" [ref=e651] [cursor=pointer]
+                - list "Please use arrow keys to navigate" [ref=e660]:
+                  - listitem [ref=e661]:
+                    - link "Finland" [ref=e662] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=78f8457a6c5831b90ffd7f210085978163f34b33718bddf6af58f5edd2b8e462JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9zZWFyY2g_cT1GaW5sYW5kK1B5dGhvbitEZXZlbG9wZXIrSm9icyYmRk9STT1WQVJTUVA&ntb=1
+                      - generic "Finland Python Developer Jobs" [ref=e664]: Finland
+                  - listitem [ref=e665]:
+                    - link "Python Developer" [ref=e666] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=2107097151e8104a4fac1bce5d5bc0dda009ca130829346fd2bb3055e84b08ecJmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9zZWFyY2g_cT1QeXRob24rRGV2ZWxvcGVyJiZGT1JNPVZBUlNRUA&ntb=1
+                  - listitem [ref=e669]:
+                    - link "Developers" [ref=e670] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=e288665bdea03bd9de6029843faf1271ef2dbc2d6709eb226491ad0b7be778e9JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9zZWFyY2g_cT1EZXZlbG9wZXJzK0pvYnMmJkZPUk09VkFSU1FQ&ntb=1
+                      - generic "Developers Jobs" [ref=e672]: Developers
+                  - listitem [ref=e673]:
+                    - link "Python Careers" [ref=e674] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=667f844c00f88c357c5c7bb65cf3fee5be751886ceaa367498e82bdde64a8fecJmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9zZWFyY2g_cT1QeXRob24rQ2FyZWVycytEZXZlbG9wJiZGT1JNPVZBUlNRUA&ntb=1
+                      - generic "Python Careers Develop" [ref=e676]: Python Careers
+                  - listitem [ref=e677]:
+                    - link "Freshers" [ref=e678] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=1f03aafa565965f29bfcfdbaba4d0f0fa40e2e806154e5c5865086c51f227d05JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9zZWFyY2g_cT1GcmVzaGVycytQeXRob24rRGV2ZWxvcGVyK0pvYitHcm91cHMmJkZPUk09VkFSU1FQ&ntb=1
+                      - generic "Freshers Python Developer Job Groups" [ref=e680]: Freshers
+                  - listitem [ref=e681]:
+                    - link "Image for Vacancy" [ref=e682] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=7b9a989c580d11cac766e10d39bb02d9327e83a10cb6cc4d7a0a80e20b430ca0JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9zZWFyY2g_cT1QeXRob24rRGV2ZWxvcGVyK0ltYWdlK2ZvcitWYWNhbmN5JiZGT1JNPVZBUlNRUA&ntb=1
+                      - generic "Python Developer Image for Vacancy" [ref=e684]: Image for Vacancy
+                  - listitem [ref=e685]:
+                    - link "Python Language" [ref=e686] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=58d1c25ad659bbc855eed568c1d2c2159e9f3a4cdde4bbe4b0ad3da4f1571798JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9zZWFyY2g_cT1QeXRob24rTGFuZ3VhZ2UrSm9icyYmRk9STT1WQVJTUVA&ntb=1
+                      - generic "Python Language Jobs" [ref=e688]: Python Language
+                  - listitem [ref=e689]:
+                    - link "Found Quickly" [ref=e690] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=fb222ef70380b2cec54de7042d2f548a1e2bed1123b602792d5cbf39bdfe3b27JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9zZWFyY2g_cT1QeXRob24rSm9iK0ZvdW5kK1F1aWNrbHkmJkZPUk09VkFSU1FQ&ntb=1
+                      - generic "Python Job Found Quickly" [ref=e692]: Found Quickly
+                  - listitem [ref=e693]:
+                    - link "Software Free" [ref=e694] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=86bdcc5b0536cb669772240b0341bed8a2a5cc06d677d8c0d2ef97c0aac6cc0bJmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9zZWFyY2g_cT1BcHArRGV2ZWxvcGVyK1NvZnR3YXJlK0ZyZWUmJkZPUk09VkFSU1FQ&ntb=1
+                      - generic "App Developer Software Free" [ref=e696]: Software Free
+                  - listitem [ref=e697]:
+                    - link "Deloitte Software" [ref=e698] [cursor=pointer]:
+                      - /url: https://www.bing.com/ck/a?!&&p=732d21321aaed5740fbf0d79c6bdb657bacdf3e9e7cc4e09827132b0a4ff8700JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9zZWFyY2g_cT1EZWxvaXR0ZStTb2Z0d2FyZSYmRk9STT1WQVJTUVA&ntb=1
+              - generic [ref=e702]:
+                - 'link "FRESHER to 48 LPA | Complete Python Roadmap 2026 | Jobs, Salaries and Skills Explained from YouTube · Duration: 13 minutes 57 seconds · 45.9K views · uploaded on 7 months ago · uploaded by CynoHub · Click to play. · 🚀 Shocking Truth About Python Jobs in India! Discover why lakhs of jobs exist but still people are struggling to get hired 🤯 In this video, we break down the real situation of Python jobs in India, including job demand, skill gaps, and the biggest mistakes students make while searching for jobs. You’ll learn about different Python ..." [ref=e705] [cursor=pointer]':
+                  - /url: https://www.bing.com/ck/a?!&&p=66bde411bacf041e1c73c036c47b743757bbf6e82ee7ce7c8e9e708579299096JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9UHl0aG9uK2RldmVsb3Blcitqb2JzJm1pZD1DMzQ5MzdEMjRGNkM2N0UwQzVCOUMzNDkzN0QyNEY2QzY3RTBDNUI5JmNodXJsPWh0dHBzJTNhJTJmJTJmd3d3LnlvdXR1YmUuY29tJTJmY2hhbm5lbCUyZlVDWmFaUUhzNXg2a2IzeVhrb3JlS0xfQSZGT1JNPVZJUkU&ntb=1
+                  - generic [ref=e706]:
+                    - generic [ref=e707]:
+                      - img "FRESHER to 48 LPA | Complete Python Roadmap 2026 | Jobs, Salaries and Skills Explained" [ref=e709]
+                      - generic [ref=e712]: 13:57
+                    - generic [ref=e716]:
+                      - generic "FRESHER to 48 LPA | Complete Python Roadmap 2026 | Jobs, Salaries and Skills Explained" [ref=e717]:
+                        - text: FRESHER to 48 LPA | Complete
+                        - strong [ref=e718]: Python
+                        - text: Roadmap 2026 |
+                        - strong [ref=e719]: Jobs
+                        - text: ", Salaries and Skills Explained"
+                      - generic [ref=e720]:
+                        - generic [ref=e721]:
+                          - img "Video source site" [ref=e722]
+                          - text: YouTube · CynoHub
+                        - generic [ref=e723]: 45.9K views · 7 months ago
+                - 'link "How to Become a PYTHON Developer - 2026 (Step-by-Step Guide) PYTHON Developer ROADMAP from YouTube · Duration: 11 minutes 49 seconds · 104.3K views · uploaded on 8 months ago · uploaded by Daniel | Tech & Data · Click to play. · 🔥 (Discount Link) Try Udemy Now: https://trk.udemy.com/c/6059981/3808336/39854?p.campaignid=UDEAFFDANIEL26 Use code *UDEAFFDANIEL26* In this video, a practical breakdown of How to Become a Python Developer in today’s AI-driven tech landscape. The discussion explains essential skills, learning order, and consistent practice needed to build ..." [ref=e726] [cursor=pointer]':
+                  - /url: https://www.bing.com/ck/a?!&&p=fd4acd687b7bcb327b58713fea388f79bc76824e0fc464315dec56125f82c23fJmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9UHl0aG9uK2RldmVsb3Blcitqb2JzJm1pZD01RkIyMUY1NEFCM0RBQ0YyRjgwQjVGQjIxRjU0QUIzREFDRjJGODBCJmNodXJsPWh0dHBzJTNhJTJmJTJmd3d3LnlvdXR1YmUuY29tJTJmY2hhbm5lbCUyZlVDM2l5TGNEeVl4azJuTjdNNURzWWFZUSZGT1JNPVZJUkU&ntb=1
+                  - generic [ref=e727]:
+                    - generic [ref=e728]:
+                      - img "How to Become a PYTHON Developer - 2026 (Step-by-Step Guide) PYTHON Developer ROADMAP" [ref=e730]
+                      - generic [ref=e733]: 11:49
+                    - generic [ref=e737]:
+                      - generic "How to Become a PYTHON Developer - 2026 (Step-by-Step Guide) PYTHON Developer ROADMAP" [ref=e738]:
+                        - text: How to Become a
+                        - strong [ref=e739]: PYTHON
+                        - strong [ref=e740]: Developer
+                        - text: "- 2026 (Step-by-Step Guide)"
+                        - strong [ref=e741]: PYTHON
+                        - strong [ref=e742]: Developer
+                        - text: ROADMAP
+                      - generic [ref=e743]:
+                        - generic [ref=e744]:
+                          - img "Video source site" [ref=e745]
+                          - text: YouTube · Daniel | Tech & Data
+                        - generic [ref=e746]: 104.3K views · 8 months ago
+                - 'link "5 Python Coding Skills That Get You Hired in 2026 from YouTube · Duration: 12 minutes 5 seconds · 50.6K views · uploaded on 1 month ago · uploaded by Tech With Tim · Click to play. · Best courses to learn the Python skills companies are hiring for: DataCamp Python for Software Engineering Track - https://datacamp.pxf.io/xJ6OMR DataCamp Python Developer Track - https://datacamp.pxf.io/k42V63 Only about 3% of Python job listings ask for just Python — the average role expects you to be comfortable with around eight ..." [ref=e749] [cursor=pointer]':
+                  - /url: https://www.bing.com/ck/a?!&&p=f6174993a26200ee1a4935721be28d6b389827e502ff524b83f1f30ffe35b690JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9UHl0aG9uK2RldmVsb3Blcitqb2JzJm1pZD1EODEzOUQ5QzBDOTQwQ0U5NUM5N0Q4MTM5RDlDMEM5NDBDRTk1Qzk3JmNodXJsPSZGT1JNPVZJUkU&ntb=1
+                  - generic [ref=e750]:
+                    - generic [ref=e751]:
+                      - img "5 Python Coding Skills That Get You Hired in 2026" [ref=e753]
+                      - generic [ref=e756]: 12:05
+                    - generic [ref=e760]:
+                      - generic "5 Python Coding Skills That Get You Hired in 2026" [ref=e761]:
+                        - text: "5"
+                        - strong [ref=e762]: Python
+                        - text: Coding Skills That Get You Hired in 2026
+                      - generic [ref=e763]:
+                        - generic [ref=e764]:
+                          - img "Video source site" [ref=e765]
+                          - text: YouTube · Tech With Tim
+                        - generic [ref=e766]: 50.6K views · 1 month ago
+              - generic [ref=e767]:
+                - link "Short videos" [ref=e768] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=ab5c6b868bf7c30da969d5b1e90fbe152f4a2051d6fc931eb87b4d9a64fea06fJmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9zZWFyY2g_JnE9cHl0aG9uK2RldmVsb3Blcitqb2JzJnFmdD0rZmlsdGVydWklM2FmaWx0ZXJoaW50LXNob3J0dmlkZW8mdmlldz1zaG9ydHZpZGVvJkZPUk09U1ZSVFJU&ntb=1
+                - generic [ref=e774]:
+                  - button [aria-hidden] [ref=e775] [cursor=pointer]
+                  - button [aria-hidden] [ref=e780] [cursor=pointer]
+                  - list "Please use arrow keys to navigate" [ref=e787]:
+                    - listitem [ref=e788]:
+                      - 'link "Top 10 Python Jobs Hiring Now 🚀 | Up to ₹20 LPA | Remote + Onsite | Apply Today! from YouTube · Duration: 16 seconds · 1.1K views · uploaded on 3 months ago · uploaded by Unminded coder · Click to play." [ref=e790] [cursor=pointer]':
+                        - /url: https://www.bing.com/ck/a?!&&p=70dc02b2607667a10ab597837766ca6d579a5df30ad7713b5e21ec307ad43c59JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9UHl0aG9uK2RldmVsb3Blcitqb2JzJiZtaWQ9NDA1NENEREVDQ0RDM0IyOTUxQ0U0MDU0Q0RERUNDREMzQjI5NTFDRSZjaHVybD1odHRwcyUzYSUyZiUyZnd3dy55b3V0dWJlLmNvbSUyZmNoYW5uZWwlMmZVQ1dhZGFsRjAxUGYtdXpmbVkxSEV6ZHcmbW1zY249c3R2byZGT1JNPVZJUkU&ntb=1
+                        - generic [ref=e791]:
+                          - img "Top 10 Python Jobs Hiring Now 🚀 | Up to ₹20 LPA | Remote + Onsite | Apply Today!" [ref=e794]
+                          - generic [ref=e802]: YouTube
+                    - listitem [ref=e804]:
+                      - 'link "Python Backend Developer Roadmap | How To Become A Python Backend Developer | #Shorts | #Simplilearn from YouTube · Duration: 12 seconds · 12.8K views · uploaded on 3 months ago · uploaded by Simplilearn · Click to play." [ref=e806] [cursor=pointer]':
+                        - /url: https://www.bing.com/ck/a?!&&p=887771a4bb2ce3e3b25a0b5787f7c921ab634eb490097540b4b09ef888342569JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9UHl0aG9uK2RldmVsb3Blcitqb2JzJiZtaWQ9QzM2QUYxREQ3NjZDRDFFMEYwMkJDMzZBRjFERDc2NkNEMUUwRjAyQiZjaHVybD1odHRwcyUzYSUyZiUyZnd3dy55b3V0dWJlLmNvbSUyZmNoYW5uZWwlMmZVQ3N2cVZHdGJieUhhTW9ldnhQQXE5RmcmbW1zY249c3R2byZGT1JNPVZJUkU&ntb=1
+                        - generic [ref=e807]:
+                          - 'img "Python Backend Developer Roadmap | How To Become A Python Backend Developer | #Shorts | #Simplilearn" [ref=e810]'
+                          - generic [ref=e818]: YouTube
+                    - listitem [ref=e820]:
+                      - 'link "AI Powered Python Full Stack Course | IT Jobs for 2026 Freshers | 100% Placement from YouTube · Duration: 1 minutes 27 seconds · 1.4K views · uploaded on 4 months ago · uploaded by HR Prakash · Click to play." [ref=e822] [cursor=pointer]':
+                        - /url: https://www.bing.com/ck/a?!&&p=5f7f8f92c32e010a14552f5fd96e677264587f716a2220d12751d51ecae33f75JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9UHl0aG9uK2RldmVsb3Blcitqb2JzJiZtaWQ9MTQyQjRBNzRGMjJCQzEyQzU3QUMxNDJCNEE3NEYyMkJDMTJDNTdBQyZjaHVybD1odHRwcyUzYSUyZiUyZnd3dy55b3V0dWJlLmNvbSUyZmNoYW5uZWwlMmZVQ3NEbmhuSlNoM1hlelFSMTJTZE9MaXcmbW1zY249c3R2byZGT1JNPVZJUkU&ntb=1
+                        - generic [ref=e823]:
+                          - img "AI Powered Python Full Stack Course | IT Jobs for 2026 Freshers | 100% Placement" [ref=e826]
+                          - generic [ref=e834]: YouTube
+                    - listitem [ref=e836]:
+                      - 'link "Python Developer Salary in 2026 💰| Salary Breakdown | Intellipaat from YouTube · Duration: 57 seconds · 12.3K views · uploaded on 5 months ago · uploaded by Intellipaat · Click to play." [ref=e838] [cursor=pointer]':
+                        - /url: https://www.bing.com/ck/a?!&&p=0e9e32d17df0ca9bd10760bf50ff0a4303ef5418e7d44f6619c0453bffa95438JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9UHl0aG9uK2RldmVsb3Blcitqb2JzJiZtaWQ9M0NGRTk1OTE4MzRDODI5NEI1NjYzQ0ZFOTU5MTgzNEM4Mjk0QjU2NiZjaHVybD1odHRwcyUzYSUyZiUyZnd3dy55b3V0dWJlLmNvbSUyZmNoYW5uZWwlMmZVQ0NrdG5haHVSRllJQnRObktUNUlZeWcmbW1zY249c3R2byZGT1JNPVZJUkU&ntb=1
+                        - generic [ref=e839]:
+                          - img "Python Developer Salary in 2026 💰| Salary Breakdown | Intellipaat" [ref=e842]
+                          - generic [ref=e850]: YouTube
+                    - listitem [ref=e852]:
+                      - 'link "Seccured Job as a Python Developer Intern! from YouTube · Duration: 57 seconds · 1.8K views · uploaded on 6 months ago · uploaded by Kiran Academy - Java By Kiran · Click to play." [ref=e854] [cursor=pointer]':
+                        - /url: https://www.bing.com/ck/a?!&&p=eb7bdc22bed07d208bbcfbaf4f68c9e3c212b417dcdfd44c1af6f21c20cffe9aJmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9UHl0aG9uK2RldmVsb3Blcitqb2JzJiZtaWQ9ODlBOTNBNjIyREQ2NzNFNUNDQjU4OUE5M0E2MjJERDY3M0U1Q0NCNSZjaHVybD1odHRwcyUzYSUyZiUyZnd3dy55b3V0dWJlLmNvbSUyZmNoYW5uZWwlMmZVQ1pvcTFreWxuTVlQX2M1V0c5RlY5WEEmbW1zY249c3R2byZGT1JNPVZJUkU&ntb=1
+                        - generic [ref=e855]:
+                          - img "Seccured Job as a Python Developer Intern!" [ref=e858]
+                          - generic [ref=e866]: YouTube
+                    - listitem [ref=e868]:
+                      - 'link "Python & Gen AI Developer Hiring for Freshers from YouTube · Duration: 36 seconds · 168 views · uploaded on 1 month ago · uploaded by Fusion Software Institute Pune · Click to play." [ref=e870] [cursor=pointer]':
+                        - /url: https://www.bing.com/ck/a?!&&p=b862656ff366947523a18460c375e943e86a75a913643346a1c67a0590032b68JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9UHl0aG9uK2RldmVsb3Blcitqb2JzJiZtaWQ9OEEzNTRDNDhGOEJGQzJFNTAxNDE4QTM1NEM0OEY4QkZDMkU1MDE0MSZjaHVybD1odHRwcyUzYSUyZiUyZnd3dy55b3V0dWJlLmNvbSUyZmNoYW5uZWwlMmZVQ0NhbEtQdDM0aGwtTHdqVGVBNndIUGcmbW1zY249c3R2byZGT1JNPVZJUkU&ntb=1
+                        - generic [ref=e871]:
+                          - img "Python & Gen AI Developer Hiring for Freshers" [ref=e874]
+                          - generic [ref=e882]: YouTube
+            - button "See more" [ref=e886]
+        - listitem [ref=e892]:
+          - generic [ref=e893]:
+            - heading "Deep dive into Python developer jobs" [level=2]:
+              - text: Deep dive into
+              - strong [ref=e894]: Python developer jobs
+            - list [ref=e895]:
+              - listitem [ref=e896]:
+                - link [ref=e897] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=0b5de43fe9b08dcb9a71982956875777471eb390e43f994c914d2145b89ba5c0JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3NlYXJjaD9xPXB5dGhvbitkZXZlbG9wZXIram9icytCZW5nYWx1cnUmRk9STT1RU1JFMQ&ntb=1
+                  - generic [ref=e899]:
+                    - text: python developer jobs
+                    - strong [ref=e900]: bengaluru
+              - listitem [ref=e901]:
+                - link [ref=e902] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=d824e4c2324dab122515ac95022c815043ecc9028437167f5fae3406a10eff84JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3NlYXJjaD9xPXB5dGhvbitkZXZlbG9wZXIram9icytEZWxoaSZGT1JNPVFTUkUy&ntb=1
+                  - generic [ref=e904]:
+                    - text: python developer jobs
+                    - strong [ref=e905]: delhi
+              - listitem [ref=e906]:
+                - link [ref=e907] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=f051052ff9de5aa7dc7da923dd854199cd29ea587cfc4e25b5c20796ee763257JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3NlYXJjaD9xPXB5dGhvbitkZXZlbG9wZXIram9icytIeWRlcmFiYWQmRk9STT1RU1JFMw&ntb=1
+                  - generic [ref=e909]:
+                    - text: python developer jobs
+                    - strong [ref=e910]: hyderabad
+              - listitem [ref=e911]:
+                - link [ref=e912] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=ecac7dbdb2b708b38f359de30c7e1796e460be929634e63ec4d267d4ac9088f4JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3NlYXJjaD9xPXB5dGhvbitkZXZlbG9wZXIram9icytOb2lkYSZGT1JNPVFTUkU0&ntb=1
+                  - generic [ref=e914]:
+                    - text: python developer jobs
+                    - strong [ref=e915]: noida
+              - listitem [ref=e916]:
+                - link [ref=e917] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=65a6fde93fe2d9af3e6a98a66c3298eab2dc10c3689517e58d9a461c9201e7fbJmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3NlYXJjaD9xPXB5dGhvbitkZXZlbG9wZXIram9icytzYWxhcnkmRk9STT1RU1JFNQ&ntb=1
+                  - generic [ref=e919]:
+                    - text: python developer jobs
+                    - strong [ref=e920]: salary
+              - listitem [ref=e921]:
+                - link [ref=e922] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=e4badeadb93cc9be38239d5816ab2148ede8ff8701137ad83a64dbfe68d0fd5dJmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3NlYXJjaD9xPXB5dGhvbitkZXZlbG9wZXIram9icytuZWFyK21lJkZPUk09UVNSRTY&ntb=1
+                  - generic [ref=e924]:
+                    - text: python developer jobs
+                    - strong [ref=e925]: near me
+              - listitem [ref=e926]:
+                - link [ref=e927] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=826e01821ed13639258779983c76fe72f32890b71aab5475b11c54ca6d30e673JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3NlYXJjaD9xPXB5dGhvbitkZXZlbG9wZXIram9icytpbitDYW5hZGEmRk9STT1RU1JFNw&ntb=1
+                  - generic [ref=e929]:
+                    - text: python developer jobs
+                    - strong [ref=e930]: in canada
+              - listitem [ref=e931]:
+                - link [ref=e932] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=99d1f2243b75ecbc46f20942d29a05102bd922dd8b099f1a48fc440e93131e8fJmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3NlYXJjaD9xPXB5dGhvbitkZXZlbG9wZXIram9icytpbitQdW5lJkZPUk09UVNSRTg&ntb=1
+                  - generic [ref=e934]:
+                    - text: python developer jobs
+                    - strong [ref=e935]: in pune
+              - listitem [ref=e936]:
+                - link [ref=e937] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=70de4071b783e46f70c2f5bc0ca6125e2a5ea327397bb719ce2e34b49a524040JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3NlYXJjaD9xPXB5dGhvbitkZXZlbG9wZXIram9icytyZW1vdGUmRk9STT1RU1JFOQ&ntb=1
+                  - generic [ref=e939]:
+                    - text: python developer jobs
+                    - strong [ref=e940]: remote
+              - listitem [ref=e941]:
+                - link [ref=e942] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=a82662906b28ae02c98627b5c1b0902ac5212bbaa4ce429f7e9fb88118e36454JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1L3NlYXJjaD9xPXB5dGhvbitkZXZlbG9wZXIram9icytpbitCYW5nYWxvcmUmRk9STT1RU1JFMTA&ntb=1
+                  - generic [ref=e944]:
+                    - text: python developer jobs
+                    - strong [ref=e945]: in bangalore
+        - listitem [ref=e946]:
+          - navigation "More results for Python developer jobs":
+            - list:
+              - listitem [ref=e947]:
+                - generic "Page 1" [ref=e948]: "1"
+              - listitem [ref=e949]:
+                - link "Page 2" [ref=e950] [cursor=pointer]:
+                  - /url: /search?q=Python+developer+jobs&FPIG=10347CA07B36427CB0A0452AA7041A6C&first=3&FORM=PERE
+                  - text: "2"
+              - listitem [ref=e951]:
+                - link "Page 3" [ref=e952] [cursor=pointer]:
+                  - /url: /search?q=Python+developer+jobs&FPIG=10347CA07B36427CB0A0452AA7041A6C&first=13&FORM=PERE1
+                  - text: "3"
+              - listitem [ref=e953]:
+                - link "Next page" [ref=e954] [cursor=pointer]:
+                  - /url: /search?q=Python+developer+jobs&FPIG=10347CA07B36427CB0A0452AA7041A6C&first=3&FORM=PORE
+      - complementary "Additional Results"
+  - contentinfo [ref=e955]:
+    - generic [ref=e956]:
+      - list:
+        - listitem [ref=e957]:
+          - link "Privacy" [ref=e958] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=bfbb112e36d0c387a006ff9a6ad06c31f37441a8e37fb295fde412e162b00b4fJmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSWQ9NTIxODM5&ntb=1
+        - listitem [ref=e959]:
+          - link "Terms" [ref=e960] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=f841caca21164e28420dcc2cb8305d73b302638d2bae14a180a6e01267c7fed3JmltdHM9MTc5NDk2MDAwMA&ptn=3&ver=2&hsh=4&fclid=261991e6-bbb9-60a7-16b5-89f3bafd6127&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9MjQ2MzM4&ntb=1
+  - dialog "Quick Search"

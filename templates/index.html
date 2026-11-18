@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ app_name }}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+<link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<div class="app-container">
+
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <div class="brand">
+        <div class="brand-icon"><i class="fa-solid fa-brain"></i></div>
+        <span>LLM Gateway</span>
+      </div>
+      <button class="new-chat-button" onclick="newChat()">
+        <i class="fa-solid fa-plus"></i> New conversation
+      </button>
+    </div>
+
+    <div class="sidebar-history">
+      <h3>Recent</h3>
+      <div id="historyList" class="history-list">
+        <div class="history-empty">No conversations yet</div>
+      </div>
+    </div>
+
+    <div class="sidebar-footer">
+      <div class="provider-card">
+        <p><i class="fa-solid fa-network-wired"></i> Connected provider</p>
+        <strong><i class="fa-solid fa-circle-check"></i> OpenRouter</strong>
+      </div>
+      <button class="clear-history-button" onclick="clearHistory()">
+        <i class="fa-regular fa-trash-can"></i> Clear conversations
+      </button>
+    </div>
+  </aside>
+
+  <main class="main-content">
+    <header class="topbar">
+      <button class="menu-btn" onclick="toggleSidebar()" title="Toggle sidebar" aria-label="Toggle sidebar">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+
+      <div class="model-info">
+        <div class="status-dot"></div>
+        <div class="model-selection">
+          <label for="modelSelect">Model</label>
+          <select id="modelSelect" title="Switch AI model">
+            <option value="">Loading free models...</option>
+          </select>
+        </div>
+        <button id="refreshModels" class="refresh-model-button" title="Refresh available models" aria-label="Refresh models">
+          <i class="fa-solid fa-rotate"></i>
+        </button>
+      </div>
+
+      <div class="header-right">
+        <span class="provider-label"><i class="fa-solid fa-bolt"></i> OpenRouter</span>
+      </div>
+    </header>
+
+    <section class="chat-area" id="chatArea">
+      <div class="welcome-screen" id="welcomeScreen">
+        <div class="welcome-icon"><i class="fa-solid fa-wand-magic-sparkles"></i></div>
+        <h1>What can I help you with?</h1>
+        <p>Pick a model, ask a question, and switch models any time without losing your place.</p>
+
+        <div class="suggestions">
+          <button class="suggestion-card" onclick="useSuggestion('Explain Artificial Intelligence')">
+            <i class="fa-solid fa-brain"></i>
+            <span><strong>Learn something</strong><small>Explain artificial intelligence</small></span>
+          </button>
+          <button class="suggestion-card" onclick="useSuggestion('Write a Python program to sort a list')">
+            <i class="fa-solid fa-code"></i>
+            <span><strong>Write code</strong><small>Sort a list in Python</small></span>
+          </button>
+          <button class="suggestion-card" onclick="useSuggestion('Explain machine learning with examples')">
+            <i class="fa-solid fa-lightbulb"></i>
+            <span><strong>Explore ideas</strong><small>Machine learning, with examples</small></span>
+          </button>
+          <button class="suggestion-card" onclick="useSuggestion('What is an LLM Gateway?')">
+            <i class="fa-solid fa-network-wired"></i>
+            <span><strong>Understand the tool</strong><small>What an LLM gateway does</small></span>
+          </button>
+        </div>
+      </div>
+
+      <div id="messages" class="messages"></div>
+    </section>
+
+    <footer class="input-section">
+      <div class="input-container">
+        <textarea id="messageInput" placeholder="Message your AI assistant..." rows="1" maxlength="20000"></textarea>
+        <button id="sendButton" class="send-button" onclick="sendMessage()" title="Send message" aria-label="Send message">
+          <i class="fa-solid fa-arrow-up"></i>
+        </button>
+      </div>
+      <div class="input-footer">
+        <span><i class="fa-solid fa-shield-halved"></i> Powered by OpenRouter</span>
+        <span id="usageInfo" class="usage-info">Loading models...</span>
+      </div>
+    </footer>
+  </main>
+</div>
+<script src="/static/js/script.js"></script>
+</body>
+</html>
